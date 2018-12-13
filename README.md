@@ -12,13 +12,13 @@
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 + [Teapot](https://github.com/zeroflag/Teapot) - Micro web framework for Pharo Smalltalk.
 + [Parasol](https://github.com/SeasideSt/Parasol) - Testing web apps in Smalltalk using Selenium WebDriver.
++ [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
 
 ## Projects management
 + [Filetree](https://github.com/dalehenrich/filetree) - First serialization format to allow version management of Pharo's source code using git, svn, etc.
 + [Metacello](https://github.com/Metacello/metacello) - A package management system for Pharo.
 + [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
 + [Cruiser](https://github.com/VincentBlondeau/Cruiser) - Application packager for Pharo.
-+ [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
 + [pharo-server-tools](https://github.com/svenvc/pharo-server-tools) - Tools to deploy and manage headless Pharo servers from the command line.
 
 ## Data interexchange format
