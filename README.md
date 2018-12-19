@@ -13,6 +13,9 @@
 + [Teapot](https://github.com/zeroflag/Teapot) - Micro web framework for Pharo Smalltalk.
 + [Parasol](https://github.com/SeasideSt/Parasol) - Testing web apps in Smalltalk using Selenium WebDriver.
 + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
++ [ChartJs](https://github.com/DuneSt/ChartJs) - Seaside binding of ChartJs to display and interact with charts.
++ [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) - Code displayer for Seaside base on Prism.js project.
++ [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on Cytoscape.js.
 
 ## Projects management
 + [Filetree](https://github.com/dalehenrich/filetree) - First serialization format to allow version management of Pharo's source code using git, svn, etc.
@@ -56,6 +59,7 @@
 + [Mirage](https://github.com/juliendelplanque/Mirage) - A windows switcher with a previewer for Pharo.
 + [QualityAssistant](https://github.com/Uko/QualityAssistant) - A live feedback code quality tool for Pharo.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
++ [Native-Browser](https://github.com/jecisc/Native-Browser) - A small project to add the possibility to open native browser via a FileReference.
 
 ## Databases
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo.
@@ -63,3 +67,6 @@
 
 ## Command line
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
+
+## Loggers
++ [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
