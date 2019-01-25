@@ -70,3 +70,7 @@
 
 ## Loggers
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
+
+## Algorithms
++ [DeepTraverser](https://github.com/pharo-contributions/DeepTraverser) - Library for traversing object graphs (managing cycles).
+
