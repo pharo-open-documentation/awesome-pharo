@@ -18,7 +18,8 @@
 + [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on Cytoscape.js.
 
 ## Projects management
-+ [Filetree](https://github.com/dalehenrich/filetree) - First serialization format to allow version management of Pharo's source code using git, svn, etc.
++ [Tonel](https://github.com/pharo-vcs/tonel) - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
++ [Filetree](https://github.com/dalehenrich/filetree) - A file-per-method export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
 + [Metacello](https://github.com/Metacello/metacello) - A package management system for Pharo.
 + [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
 + [Cruiser](https://github.com/VincentBlondeau/Cruiser) - Application packager for Pharo.
