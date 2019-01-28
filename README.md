@@ -1,5 +1,6 @@
 # Awesome Pharo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
- A collection of awesome Pharo libraries, tools, frameworks and software.
+
+A categorized community-driven collection of awesome Pharo libraries, tools, frameworks and softwares.
 
 ## Books
 + [SquareBracketAssociates](https://github.com/SquareBracketAssociates) - Organisation grouping repositories for various books around Pharo.
