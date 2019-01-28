@@ -40,6 +40,8 @@
 + [Kendrick](https://github.com/UMMISCO/kendrick) - Domain-Specific Modeling for Epidemiology.
 + [libtensorflow-pharo-bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - TensorFlow library bindings for Pharo.
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
++ [Geometry](https://github.com/TelescopeSt/Geometry) - A library for representing basic geometry elements and doing computations with them.
+
 
 ## Software / data analysis
 + [Moose](https://github.com/moosetechnology/Moose) - Plateform for software and data analysis.
