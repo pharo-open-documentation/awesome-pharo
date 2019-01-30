@@ -82,7 +82,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Territorial](https://github.com/hernanmd/Territorial) - Geographic Information Retrieval Library.
 + [GADM](https://github.com/hernanmd/GADM) - A browseable GADM world tree for Pharo Smalltalk.
 + [Z3950](https://github.com/hernanmd/Z3950) - ZOOM FFI Client for Z39.50 Protocol.
-- [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.        
++ [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.        
 
 ## Software / data analysis
 + [Moose](https://github.com/moosetechnology/Moose) - Platform for software and data analysis.
