@@ -20,6 +20,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Algorithms
 + [DeepTraverser](https://github.com/pharo-contributions/DeepTraverser) - Library for traversing object graphs (managing cycles).
++ [FuzzySearcher](https://github.com/hernanmd/FuzzySearcher) - Simplified implementation of ambiguous matching algorithm based on Baeta-Yates, R.A., Gonnet, G.H., Wu, S. and Manber, U.
 
 ## Books
 + [Free online books from Stéphane Ducasse website](http://stephane.ducasse.free.fr/FreeBooks.html) - A collection of free books related to Smalltalk and Pharo.
@@ -27,7 +28,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Command line
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
-
++ [pi](https://github.com/hernanmd/pi) - CLI tool to install Pharo Smalltalk packages
+        
 ## Data interexchange format
 + [msgpack-smalltalk](https://github.com/msgpack/msgpack-smalltalk) - MessagePack serialization library.
 + [NeoJSON](https://github.com/svenvc/NeoJSON) - Framework to handle JSON in Pharo.
@@ -43,6 +45,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
 + [Brick](https://github.com/pharo-graphics/Brick) - Next generation widget libraries for Pharo. Works on top of Bloc.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
++ [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
++ [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
 
 ## IDE
 + [Calypso](https://github.com/pharo-ide/Calypso) - Pharo system browser.
@@ -74,12 +78,20 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [libtensorflow-pharo-bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - TensorFlow library bindings for Pharo.
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
 + [Polymath](https://github.com/PolyMathOrg/PolyMath) - Set of mathematical tools for Pharo. Similar to numpy in Python.
++ [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) - Bioinformatics Library for Pharo Smalltalk.
++ [Territorial](https://github.com/hernanmd/Territorial) - Geographic Information Retrieval Library.
++ [GADM](https://github.com/hernanmd/GADM) - A browseable GADM world tree for Pharo Smalltalk.
++ [Z3950](https://github.com/hernanmd/Z3950) - ZOOM FFI Client for Z39.50 Protocol.
+- [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.        
 
 ## Software / data analysis
-+ [Moose](https://github.com/moosetechnology/Moose) - Plateform for software and data analysis.
++ [Moose](https://github.com/moosetechnology/Moose) - Platform for software and data analysis.
++ [DesignInfo](https://github.com/hernanmd/DesignInfo) - Collects package metrics (SLOC).
++ [CCBC](https://github.com/hernanmd/ccbc) - Code Critics Bar Chart for Pharo Smalltalk.
 
 ## System Interaction
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
++ [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
 
 ## VCS
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
