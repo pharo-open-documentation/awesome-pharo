@@ -1,6 +1,6 @@
 # Awesome Pharo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A categorized community-driven collection of awesome Pharo libraries, tools, frameworks and softwares.
+A categorized community-driven collection of awesome Pharo libraries, tools, frameworks and software.
 
 - [Algorithms](#algorithms)
 - [Books](#books)
