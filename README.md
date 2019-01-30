@@ -94,5 +94,5 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Teapot](https://github.com/zeroflag/Teapot) - Micro web framework for Pharo Smalltalk.
 + [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on 
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
-+ [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.Cytoscape.js.
++ [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.
 
