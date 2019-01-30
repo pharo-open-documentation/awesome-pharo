@@ -2,6 +2,22 @@
 
 A categorized community-driven collection of awesome Pharo libraries, tools, frameworks and softwares.
 
+- [Algorithms](#algorithms)
+- [Books](#books)
+- [Command line](#command-line)
+- [Data interexchange format](#data-interexchange-format)
+- [Databases](#databases)
+- [Graphics](#graphics)
+- [IDE](#ide)
+- [IOT](#iot)
+- [Loggers](#loggers)
+- [Projects management](#projects-management)
+- [Scientific libraries](#scientific-libraries)
+- [Software / data analysis](#software---data-analysis)
+- [System Interaction](#system-interaction)
+- [VCS](#vcs)
+- [Web](#web)
+
 ## Algorithms
 + [DeepTraverser](https://github.com/pharo-contributions/DeepTraverser) - Library for traversing object graphs (managing cycles).
 
