@@ -97,6 +97,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 + [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.Cytoscape.js.
 
-## Tdd
-+ [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API
+## TDD
++ [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
