@@ -77,9 +77,16 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Software / data analysis
 + [Moose](https://github.com/moosetechnology/Moose) - Plateform for software and data analysis.
++ [PetitParser](https://github.com/moosetechnology/PetitParser) - Petit Parser is a framework for building parsers using objects.
++ [PostgreSQLParser](https://github.com/juliendelplanque/PostgreSQLParser) - A parser for PostgreSQL queries and Plpg/SQL source code.
 
 ## System Interaction
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
+
+## Testing
++ [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
++ [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects framework.
++ [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
 
 ## VCS
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
