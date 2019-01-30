@@ -13,7 +13,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Loggers](#loggers)
 - [Projects management](#projects-management)
 - [Scientific libraries](#scientific-libraries)
-- [Software / data analysis](#software---data-analysis)
+- [Software / data analysis](#software--data-analysis)
 - [System Interaction](#system-interaction)
 - [VCS](#vcs)
 - [Web](#web)
