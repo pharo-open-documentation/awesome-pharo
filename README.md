@@ -92,7 +92,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) - Code displayer for Seaside base on Prism.js project.
 + [Seaside](https://github.com/SeasideSt/Seaside) - Framework to develop sophisticate web applications in Smalltalk.
 + [Teapot](https://github.com/zeroflag/Teapot) - Micro web framework for Pharo Smalltalk.
-+ [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on 
++ [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on Cytoscape.js.
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
-+ [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.Cytoscape.js.
++ [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.
 
