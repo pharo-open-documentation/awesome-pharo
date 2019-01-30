@@ -15,6 +15,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Scientific libraries](#scientific-libraries)
 - [Software / data analysis](#software--data-analysis)
 - [System Interaction](#system-interaction)
+- [TDD](#tdd)
 - [VCS](#vcs)
 - [Web](#web)
 
@@ -81,6 +82,10 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## System Interaction
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
 
+## TDD
++ [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
++ [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
+
 ## VCS
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
 
@@ -95,4 +100,3 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on Cytoscape.js.
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 + [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.
-
