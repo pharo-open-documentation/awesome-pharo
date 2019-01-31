@@ -1,6 +1,6 @@
 # Awesome Pharo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A categorized community-driven collection of awesome Pharo libraries, tools, frameworks and softwares.
+A categorized community-driven collection of awesome Pharo libraries, tools, frameworks and software.
 
 - [Algorithms](#algorithms)
 - [Books](#books)
@@ -13,13 +13,15 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Loggers](#loggers)
 - [Projects management](#projects-management)
 - [Scientific libraries](#scientific-libraries)
-- [Software / data analysis](#software---data-analysis)
+- [Software / data analysis](#software--data-analysis)
 - [System Interaction](#system-interaction)
+- [TDD](#tdd)
 - [VCS](#vcs)
 - [Web](#web)
 
 ## Algorithms
 + [DeepTraverser](https://github.com/pharo-contributions/DeepTraverser) - Library for traversing object graphs (managing cycles).
++ [FuzzySearcher](https://github.com/hernanmd/FuzzySearcher) - Simplified implementation of ambiguous matching algorithm based on Baeta-Yates, R.A., Gonnet, G.H., Wu, S. and Manber, U.
 
 ## Books
 + [Free online books from Stéphane Ducasse website](http://stephane.ducasse.free.fr/FreeBooks.html) - A collection of free books related to Smalltalk and Pharo.
@@ -27,6 +29,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Command line
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
++ [pi](https://github.com/hernanmd/pi) - CLI tool to install Pharo Smalltalk packages
 
 ## Data interexchange format
 + [msgpack-smalltalk](https://github.com/msgpack/msgpack-smalltalk) - MessagePack serialization library.
@@ -42,6 +45,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Graphics
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
 + [Brick](https://github.com/pharo-graphics/Brick) - Next generation widget libraries for Pharo. Works on top of Bloc.
++ [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
++ [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
 
 ## IDE
@@ -68,20 +73,32 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Tonel](https://github.com/pharo-vcs/tonel) - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
 
 ## Scientific libraries
++ [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) - Bioinformatics Library for Pharo Smalltalk.
 + [Dataframe](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
++ [GADM](https://github.com/hernanmd/GADM) - A browseable GADM world tree for Pharo Smalltalk.
 + [Geometry](https://github.com/TelescopeSt/Geometry) - A library for representing basic geometry elements and doing computations with them.
 + [Kendrick](https://github.com/UMMISCO/kendrick) - Domain-Specific Modeling for Epidemiology.
 + [libtensorflow-pharo-bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - TensorFlow library bindings for Pharo.
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
 + [Polymath](https://github.com/PolyMathOrg/PolyMath) - Set of mathematical tools for Pharo. Similar to numpy in Python.
++ [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.        
++ [Territorial](https://github.com/hernanmd/Territorial) - Geographic Information Retrieval Library.
++ [Z3950](https://github.com/hernanmd/Z3950) - ZOOM FFI Client for Z39.50 Protocol.
 
 ## Software / data analysis
-+ [Moose](https://github.com/moosetechnology/Moose) - Plateform for software and data analysis.
++ [CCBC](https://github.com/hernanmd/ccbc) - Code Critics Bar Chart for Pharo Smalltalk.
++ [DesignInfo](https://github.com/hernanmd/DesignInfo) - Collects package metrics (SLOC).
++ [Moose](https://github.com/moosetechnology/Moose) - Platform for software and data analysis.
 + [PetitParser](https://github.com/moosetechnology/PetitParser) - Petit Parser is a framework for building parsers using objects.
 + [PostgreSQLParser](https://github.com/juliendelplanque/PostgreSQLParser) - A parser for PostgreSQL queries and Plpg/SQL source code.
 
 ## System Interaction
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
++ [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
+
+## TDD
++ [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
++ [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
 
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
@@ -99,7 +116,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) - Code displayer for Seaside base on Prism.js project.
 + [Seaside](https://github.com/SeasideSt/Seaside) - Framework to develop sophisticate web applications in Smalltalk.
 + [Teapot](https://github.com/zeroflag/Teapot) - Micro web framework for Pharo Smalltalk.
-+ [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on 
++ [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on Cytoscape.js.
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
-+ [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.Cytoscape.js.
-
++ [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.
