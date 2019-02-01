@@ -96,10 +96,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
 + [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
 
-## TDD
-+ [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
-+ [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
-
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects framework.
