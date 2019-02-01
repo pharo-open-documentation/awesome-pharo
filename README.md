@@ -102,6 +102,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
 
 ## Web
++ [SeasideBootstrap](https://github.com/astares/Seaside-Bootstrap) - Binding to Twitter's Bootstrap project for Seaside.
 + [ChartJs](https://github.com/DuneSt/ChartJs) - Seaside binding of ChartJs to display and interact with charts.
 + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
 + [Parasol](https://github.com/SeasideSt/Parasol) - Testing web apps in Smalltalk using Selenium WebDriver.
