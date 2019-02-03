@@ -22,6 +22,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Algorithms
 + [DeepTraverser](https://github.com/pharo-contributions/DeepTraverser) - Library for traversing object graphs (managing cycles).
 + [FuzzySearcher](https://github.com/hernanmd/FuzzySearcher) - Simplified implementation of ambiguous matching algorithm based on Baeta-Yates, R.A., Gonnet, G.H., Wu, S. and Manber, U.
++ [StableMarriage](https://github.com/juliendelplanque/StableMarriage) - A solver for the stable marriage problem written in Pharo.
 
 ## Books
 + [Free online books from Stéphane Ducasse website](http://stephane.ducasse.free.fr/FreeBooks.html) - A collection of free books related to Smalltalk and Pharo.
