@@ -108,6 +108,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Parasol](https://github.com/SeasideSt/Parasol) - Testing web apps in Smalltalk using Selenium WebDriver.
 + [PharoJS](https://github.com/bouraqadi/PharoJS) - Develop in Pharo, Run on Javascript.
 + [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) - Code displayer for Seaside base on Prism.js project.
++ [RenoirSt](https://github.com/ba-st/RenoirSt) - A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk.
 + [Seaside](https://github.com/SeasideSt/Seaside) - Framework to develop sophisticate web applications in Smalltalk.
 + [SeasideBootstrap](https://github.com/astares/Seaside-Bootstrap) - Binding to Twitter's Bootstrap project for Seaside.
 + [Teapot](https://github.com/zeroflag/Teapot) - Micro web framework for Pharo Smalltalk.
