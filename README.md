@@ -11,6 +11,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [IDE](#ide)
 - [IOT](#iot)
 - [Loggers](#loggers)
+- [Miscellaneous](#miscellaneous)
 - [Projects management](#projects-management)
 - [Scientific libraries](#scientific-libraries)
 - [Software / data analysis](#software--data-analysis)
@@ -64,6 +65,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Loggers
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
+
+## Miscellaneous
++ [Units](https://github.com/zweidenker/Units) - 
 
 ## Projects management
 + [Cruiser](https://github.com/VincentBlondeau/Cruiser) - Application packager for Pharo.
