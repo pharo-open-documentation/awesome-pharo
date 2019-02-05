@@ -67,6 +67,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
 
 ## Miscellaneous
++ [ISO3166](https://github.com/hernanmd/ISO3166).
 + [Units](https://github.com/zweidenker/Units) - 
 
 ## Projects management
