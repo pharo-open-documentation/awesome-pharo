@@ -68,7 +68,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Miscellaneous
 + [ISO3166](https://github.com/hernanmd/ISO3166) - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
-+ [Units](https://github.com/zweidenker/Units) - 
++ [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
 
 ## Projects management
 + [Cruiser](https://github.com/VincentBlondeau/Cruiser) - Application packager for Pharo.
