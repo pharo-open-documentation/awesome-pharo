@@ -99,13 +99,17 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [CCBC](https://github.com/hernanmd/ccbc) - Code Critics Bar Chart for Pharo Smalltalk.
 + [DesignInfo](https://github.com/hernanmd/DesignInfo) - Collects package metrics (SLOC).
 + [Moose](https://github.com/moosetechnology/Moose) - Platform for software and data analysis.
++ [PetitParser](https://github.com/moosetechnology/PetitParser) - Petit Parser is a framework for building parsers using objects.
++ [PostgreSQLParser](https://github.com/juliendelplanque/PostgreSQLParser) - A parser for PostgreSQL queries and Plpg/SQL source code.
 
 ## System Interaction
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
 + [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
 
-## TDD
+## Testing
++ [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
++ [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
 + [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
 
 ## VCS
