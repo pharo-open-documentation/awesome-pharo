@@ -4,6 +4,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 - [Algorithms](#algorithms)
 - [Books](#books)
+- [Code generation](#code-generation)
 - [Command line](#command-line)
 - [Data interexchange format](#data-interexchange-format)
 - [Databases](#databases)
@@ -28,6 +29,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Books
 + [Free online books from Stéphane Ducasse website](http://stephane.ducasse.free.fr/FreeBooks.html) - A collection of free books related to Smalltalk and Pharo.
 + [SquareBracketAssociates](https://github.com/SquareBracketAssociates) - Organisation grouping repositories for various books around Pharo.
+
+## Code generation
+- [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
 
 ## Command line
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
