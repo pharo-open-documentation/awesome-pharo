@@ -98,8 +98,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
-+ [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects framework.
++ [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
++ [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
 
 ## VCS
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
