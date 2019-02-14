@@ -19,6 +19,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [System Interaction](#system-interaction)
 - [TDD](#tdd)
 - [VCS](#vcs)
+- [Videos](#videos)
 - [Web](#web)
 
 ## Algorithms
@@ -111,6 +112,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
 + [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
+
+## Videos
++ [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) to infect a Morph, making it change the color of other Morphs it touches.
 
 ## VCS
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
