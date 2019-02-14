@@ -19,7 +19,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [System Interaction](#system-interaction)
 - [TDD](#tdd)
 - [VCS](#vcs)
-- [Videos](videos)
+- [Videos](#videos)
 - [Web](#web)
 
 ## Algorithms
