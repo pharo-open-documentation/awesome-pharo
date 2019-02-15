@@ -90,6 +90,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Scientific libraries
 + [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) - Bioinformatics Library for Pharo Smalltalk.
++ [CORMAS](https://github.com/cormas/cormas) - CORMAS (Common-pool Resource and Mutli-Agent Simulation) is a agent based model library in Smalltalk.
 + [Dataframe](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
 + [GADM](https://github.com/hernanmd/GADM) - A browseable GADM world tree for Pharo Smalltalk.
 + [Geometry](https://github.com/TelescopeSt/Geometry) - A library for representing basic geometry elements and doing computations with them.
