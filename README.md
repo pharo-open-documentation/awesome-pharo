@@ -55,6 +55,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
++ [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 
 ## IDE
 + [Calypso](https://github.com/pharo-ide/Calypso) - Pharo system browser.
@@ -67,6 +68,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## IOT
 + [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on Pharo.
+
+## Language Extensions
++ [Talents](https://github.com/tesonep/pharo-talents) - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances. 
 
 ## Loggers
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
@@ -112,6 +116,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
 + [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
++ [ParametrizedTests](https://github.com/tesonep/ParametrizedTests) - Extension to SUnit to implement parametrized tests in Pharo.
 
 ## Videos
 + [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) to infect a Morph, making it change the color of other Morphs it touches.
