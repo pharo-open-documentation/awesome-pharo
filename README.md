@@ -11,12 +11,13 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Graphics](#graphics)
 - [IDE](#ide)
 - [IOT](#iot)
+- [Language extensions](#language-extensions)
 - [Loggers](#loggers)
 - [Miscellaneous](#miscellaneous)
 - [Projects management](#projects-management)
 - [Scientific libraries](#scientific-libraries)
 - [Software / data analysis](#software--data-analysis)
-- [System Interaction](#system-interaction)
+- [System interaction](#system-interaction)
 - [TDD](#tdd)
 - [VCS](#vcs)
 - [Videos](#videos)
@@ -52,6 +53,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Graphics
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
 + [Brick](https://github.com/pharo-graphics/Brick) - Next generation widget libraries for Pharo. Works on top of Bloc.
++ [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
@@ -67,6 +69,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## IOT
 + [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on Pharo.
+
+## Language extensions
++ [Talents](https://github.com/tesonep/pharo-talents) - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances. 
 
 ## Loggers
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
@@ -103,7 +108,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [PetitParser](https://github.com/moosetechnology/PetitParser) - Petit Parser is a framework for building parsers using objects.
 + [PostgreSQLParser](https://github.com/juliendelplanque/PostgreSQLParser) - A parser for PostgreSQL queries and Plpg/SQL source code.
 
-## System Interaction
+## System interaction
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
 + [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
 
@@ -111,6 +116,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
++ [ParametrizedTests](https://github.com/tesonep/ParametrizedTests) - Extension to SUnit to implement parametrized tests in Pharo.
 + [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
 
 ## Videos
