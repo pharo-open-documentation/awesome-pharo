@@ -29,6 +29,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [StableMarriage](https://github.com/juliendelplanque/StableMarriage) - A solver for the stable marriage problem written in Pharo.
 
 ## Books
++ [Agile Artificial Intelligence](https://agileartificialintelligence.github.io) - Agile Artificial Intelligence is a book that covers classical algorithms commonly assimilated as artificial intelligence techniques.
++ [Agile Visualization](http://agilevisualization.com) - Visualization made easy in Pharo. It uses the Roassal visualization engine
 + [Free online books from Stéphane Ducasse website](http://stephane.ducasse.free.fr/FreeBooks.html) - A collection of free books related to Smalltalk and Pharo.
 + [SquareBracketAssociates](https://github.com/SquareBracketAssociates) - Organisation grouping repositories for various books around Pharo.
 
@@ -55,6 +57,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Brick](https://github.com/pharo-graphics/Brick) - Next generation widget libraries for Pharo. Works on top of Bloc.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
++ [Roassal](https://github.com/ObjectProfile/Roassal2) - The agile 2D visualization engine for Pharo.
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
 
@@ -115,6 +118,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
++ [Hapao](https://github.com/ObjectProfile/Spy2) - Spy2 is a profiling framework. Spy2 contains Hapao, the visual test coverage tool.
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
 + [ParametrizedTests](https://github.com/tesonep/ParametrizedTests) - Extension to SUnit to implement parametrized tests in Pharo.
