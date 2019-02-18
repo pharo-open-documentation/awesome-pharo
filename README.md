@@ -68,7 +68,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Native-Browser](https://github.com/jecisc/Native-Browser) - A small project to add the possibility to open native browser via a FileReference.
 + [QualityAssistant](https://github.com/Uko/QualityAssistant) - A live feedback code quality tool for Pharo.
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
-+ [Hapao](https://github.com/ObjectProfile/Spy2) - Profiling framework. Spy2 contains Hapao, the visual test coverage tool
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
 
 ## IOT
@@ -119,6 +118,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
++ [Hapao](https://github.com/ObjectProfile/Spy2) - Spy2 is a profiling framework. Spy2 contains Hapao, the visual test coverage tool.
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
 + [ParametrizedTests](https://github.com/tesonep/ParametrizedTests) - Extension to SUnit to implement parametrized tests in Pharo.
