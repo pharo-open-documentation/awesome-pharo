@@ -58,7 +58,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Brick](https://github.com/pharo-graphics/Brick) - Next generation widget libraries for Pharo. Works on top of Bloc.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
-+ [Roassal](https://github.com/ObjectProfile/Roassal2) - An agile 2D visualization engine for Pharo and VisualWorks.
++ [Roassal](https://github.com/ObjectProfile/Roassal2) - The agile 2D visualization engine for Pharo.
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
 
