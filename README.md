@@ -29,11 +29,10 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [StableMarriage](https://github.com/juliendelplanque/StableMarriage) - A solver for the stable marriage problem written in Pharo.
 
 ## Books
++ [Agile Artificial Intelligence](https://agileartificialintelligence.github.io) - Agile Artificial Intelligence is a book that covers classical algorithms commonly assimilated as artificial intelligence techniques.
++ [Agile Visualization](http://agilevisualization.com) - Visualization made easy in Pharo. It uses the Roassal visualization engine
 + [Free online books from Stéphane Ducasse website](http://stephane.ducasse.free.fr/FreeBooks.html) - A collection of free books related to Smalltalk and Pharo.
 + [SquareBracketAssociates](https://github.com/SquareBracketAssociates) - Organisation grouping repositories for various books around Pharo.
-+ [Agile Visualization](http://agilevisualization.com) - Visualization made easy in Pharo. It uses the Roassal visualization engine
-+ [Agile Artificial Intelligence](https://agileartificialintelligence.github.io) - Agile Artificial Intelligence is a book that covers classical algorithms commonly assimilated as artificial intelligence techniques.
-
 
 ## Code generation
 - [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
@@ -69,6 +68,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Native-Browser](https://github.com/jecisc/Native-Browser) - A small project to add the possibility to open native browser via a FileReference.
 + [QualityAssistant](https://github.com/Uko/QualityAssistant) - A live feedback code quality tool for Pharo.
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
++ [Hapao](https://github.com/ObjectProfile/Spy2) - Profiling framework. Spy2 contains Hapao, the visual test coverage tool
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
 
 ## IOT
