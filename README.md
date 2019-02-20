@@ -80,6 +80,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
 
 ## Miscellaneous
++ [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
 + [ISO3166](https://github.com/hernanmd/ISO3166) - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
 + [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
 
