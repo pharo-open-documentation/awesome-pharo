@@ -58,6 +58,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Brick](https://github.com/pharo-graphics/Brick) - Next generation widget libraries for Pharo. Works on top of Bloc.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
++ [Jun](https://github.com/tomooda/Jun) - A 3D graphics library with chemoinformatics extensions.
 + [Roassal](https://github.com/ObjectProfile/Roassal2) - The agile 2D visualization engine for Pharo.
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
@@ -103,6 +104,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [libtensorflow-pharo-bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - TensorFlow library bindings for Pharo.
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
 + [Polymath](https://github.com/PolyMathOrg/PolyMath) - Set of mathematical tools for Pharo. Similar to numpy in Python.
++ [RMapViewer](https://github.com/ReactionMap/RMapViewer) - A Viewer for chemical reaction maps.
 + [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.        
 + [Territorial](https://github.com/hernanmd/Territorial) - Geographic Information Retrieval Library.
 + [Z3950](https://github.com/hernanmd/Z3950) - ZOOM FFI Client for Z39.50 Protocol.
