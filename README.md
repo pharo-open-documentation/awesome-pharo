@@ -39,7 +39,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Command line
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
-+ [pi](https://github.com/hernanmd/pi) - CLI tool to install Pharo Smalltalk packages
++ [Pharo server tools](https://github.com/svenvc/pharo-server-tools) - Tools to deploy and manage headless Pharo servers from the command line.
++ [pi](https://github.com/hernanmd/pi) - CLI tool to install Pharo Smalltalk packages.
 
 ## Data interexchange format
 + [msgpack-smalltalk](https://github.com/msgpack/msgpack-smalltalk) - MessagePack serialization library.
