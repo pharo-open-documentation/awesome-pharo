@@ -86,6 +86,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
 
 ## Miscellaneous
++ [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
 + [ISO3166](https://github.com/hernanmd/ISO3166) - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
