@@ -8,6 +8,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Command line](#command-line)
 - [Data interexchange format](#data-interexchange-format)
 - [Databases](#databases)
+- [Documents generation](#documents-generation)
 - [Graphics](#graphics)
 - [IDE](#ide)
 - [IOT](#iot)
@@ -52,6 +53,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Databases
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
+
+## Documents Generation
++ [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
 
 ## Graphics
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
