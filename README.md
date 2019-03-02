@@ -41,6 +41,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [STON](https://github.com/svenvc/ston) - The Smalltalk Object Notation, similar to JSON but for Smalltalk.
 
 ## Databases
++ [Glorp](https://glorp.org) - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
++ [GlorpSQLite](https://github.com/PierceNg/glorp-sqlite3) - SQLite for Pharo, standalone and integrated with Pharo.
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
 
