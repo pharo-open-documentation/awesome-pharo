@@ -15,6 +15,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Language extensions](#language-extensions)
 - [Loggers](#loggers)
 - [Miscellaneous](#miscellaneous)
+- [Network protocols](#network-protocols)
 - [Projects management](#projects-management)
 - [Scientific libraries](#scientific-libraries)
 - [Software / data analysis](#software--data-analysis)
@@ -95,6 +96,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
+
+## Network protocols
++ [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 
 ## Projects management
 + [Cruiser](https://github.com/VincentBlondeau/Cruiser) - Application packager for Pharo.
