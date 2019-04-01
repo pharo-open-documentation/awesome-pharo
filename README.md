@@ -31,6 +31,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [StableMarriage](https://github.com/juliendelplanque/StableMarriage) - A solver for the stable marriage problem written in Pharo.
 
 ## Books
++ [https://books.pharo.org](https://books.pharo.org) Pharo books are a collection of technical or textbook books around Pharo. 
 + [Agile Artificial Intelligence](https://agileartificialintelligence.github.io) - Agile Artificial Intelligence is a book that covers classical algorithms commonly assimilated as artificial intelligence techniques.
 + [Agile Visualization](http://agilevisualization.com) - Visualization made easy in Pharo. It uses the Roassal visualization engine
 + [Free online books from Stéphane Ducasse website](http://stephane.ducasse.free.fr/FreeBooks.html) - A collection of free books related to Smalltalk and Pharo.
