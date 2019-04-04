@@ -57,7 +57,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [GlorpSQLite](https://github.com/PierceNg/glorp-sqlite3) - SQLite for Pharo, standalone and integrated with Glorp.
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
-
++ [CDB](https://github.com/Ducasse/CDB) - a CDB implementation in Pharo. 
++ [TUIO](https://github.com/Ducasse/TUIO) - TUIO driver in Pharo. 
 ## Documents Generation
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
 
@@ -98,11 +99,25 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
++ [Citezen](https://github.com/Ducasse/Citezen) - A bibtext parser and tool suite.
+
+## Data Structure
++ [Stack implementation](https://github.com/Ducasse/Containers-Stack) - A stack implementation.
++ [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
++ [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order presenving dictionary.
++ [UniqueOrdered collection](https://github.com/Ducasse/Containers-UniqueOrdered) - Some collection to have unique ordered elements. 
++ [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
++ [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
+
+## Interaction
++ [TUIO](https://github.com/Ducasse/TUIO) - a driver for TUIO.
++ [OSC](https://github.com/Ducasse/OSC) - an open sound control library.
 
 ## Network protocols
 + [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 
 ## Projects management
++ [Chrysal](https://github.com/Ducasse/Chrysal) - How to manage application configuration. 
 + [Cruiser](https://github.com/VincentBlondeau/Cruiser) - Application packager for Pharo.
 + [Filetree](https://github.com/dalehenrich/filetree) - A file-per-method export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
 + [Metacello](https://github.com/Metacello/metacello) - A package management system for Pharo.
