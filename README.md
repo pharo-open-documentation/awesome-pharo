@@ -89,6 +89,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Loggers
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
++ [Beacon](https://github.com/noha/pharo-beacon) - A logger using beacon
 
 ## Miscellaneous
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
