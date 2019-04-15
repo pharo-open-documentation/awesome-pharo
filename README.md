@@ -7,10 +7,12 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Code generation](#code-generation)
 - [Command line](#command-line)
 - [Data interexchange format](#data-interexchange-format)
+- [Data structure](#data-structure)
 - [Databases](#databases)
 - [Documents generation](#documents-generation)
 - [Graphics](#graphics)
 - [IDE](#ide)
+- [Interaction](#interaction)
 - [IOT](#iot)
 - [Language extensions](#language-extensions)
 - [Loggers](#loggers)
@@ -52,12 +54,22 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [SIXX](https://github.com/mumez/SIXX) - XML serializer/deserializer.
 + [STON](https://github.com/svenvc/ston) - The Smalltalk Object Notation, similar to JSON but for Smalltalk.
 
+## Data Structure
++ [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
++ [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
++ [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
++ [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order presenving dictionary.
++ [Stack implementation](https://github.com/Ducasse/Containers-Stack) - A stack implementation.
++ [UniqueOrdered collection](https://github.com/Ducasse/Containers-UniqueOrdered) - Some collection to have unique ordered elements. 
+
 ## Databases
++ [CDB](https://github.com/Ducasse/CDB) - a CDB implementation in Pharo. 
++ [CouchDB](https://github.com/eMaringolo/pharo-couchdb) - Pharo client for CouchDB NoSQL Document Database.
 + [Glorp](https://glorp.org) - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
 + [GlorpSQLite](https://github.com/PierceNg/glorp-sqlite3) - SQLite for Pharo, standalone and integrated with Glorp.
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
-+ [CDB](https://github.com/Ducasse/CDB) - a CDB implementation in Pharo. 
++ [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
 
 ## Documents Generation
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
@@ -82,6 +94,10 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
 
+## Interaction
++ [TUIO](https://github.com/Ducasse/TUIO) - A driver for TUIO.
++ [OSC](https://github.com/Ducasse/OSC) - An open sound control library.
+
 ## IOT
 + [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on Pharo.
 
@@ -89,29 +105,17 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Talents](https://github.com/tesonep/pharo-talents) - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances. 
 
 ## Loggers
++ [Beacon](https://github.com/noha/pharo-beacon) - A logger using beacon.
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
-+ [Beacon](https://github.com/noha/pharo-beacon) - A logger using beacon
 
 ## Miscellaneous
++ [Citezen](https://github.com/Ducasse/Citezen) - A bibtext parser and tool suite.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
 + [ISO3166](https://github.com/hernanmd/ISO3166) - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
-+ [Citezen](https://github.com/Ducasse/Citezen) - A bibtext parser and tool suite.
-
-## Data Structure
-+ [Stack implementation](https://github.com/Ducasse/Containers-Stack) - A stack implementation.
-+ [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
-+ [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order presenving dictionary.
-+ [UniqueOrdered collection](https://github.com/Ducasse/Containers-UniqueOrdered) - Some collection to have unique ordered elements. 
-+ [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
-+ [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
-
-## Interaction
-+ [TUIO](https://github.com/Ducasse/TUIO) - a driver for TUIO.
-+ [OSC](https://github.com/Ducasse/OSC) - an open sound control library.
 
 ## Network protocols
 + [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
