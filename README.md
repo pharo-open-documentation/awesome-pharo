@@ -23,6 +23,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Software / data analysis](#software--data-analysis)
 - [System interaction](#system-interaction)
 - [TDD](#tdd)
+- [Tutorials](#tutorials)
 - [VCS](#vcs)
 - [Videos](#videos)
 - [Web](#web)
@@ -162,6 +163,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
 + [ParametrizedTests](https://github.com/tesonep/ParametrizedTests) - Extension to SUnit to implement parametrized tests in Pharo.
 + [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
+
+## Tutorials
++ [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
 
 ## Videos
 + [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) to infect a Morph, making it change the color of other Morphs it touches.
