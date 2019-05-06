@@ -22,7 +22,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Scientific libraries](#scientific-libraries)
 - [Software / data analysis](#software--data-analysis)
 - [System interaction](#system-interaction)
-- [TDD](#tdd)
+- [Testing](#testing)
 - [Tutorials](#tutorials)
 - [VCS](#vcs)
 - [Videos](#videos)
