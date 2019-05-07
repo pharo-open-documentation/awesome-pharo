@@ -55,6 +55,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Pillar](https://github.com/pillar-markup/pillar) - Markup syntax and associated tools to write and generate documentation, books and slides.
 + [SIXX](https://github.com/mumez/SIXX) - XML serializer/deserializer.
 + [STON](https://github.com/svenvc/ston) - The Smalltalk Object Notation, similar to JSON but for Smalltalk.
++ [Tabular](https://github.com/VincentBlondeau/Tabular) - Support of common spreadsheets formats (CSV, XLSX, ODS).
 
 ## Data Structure
 + [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
