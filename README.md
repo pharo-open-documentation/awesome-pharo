@@ -62,6 +62,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
 + [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
 + [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order presenving dictionary.
++ [PropertyEnvironment](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary of properties with a lookup in ancestors (also called environment in other languages).
 + [Stack implementation](https://github.com/Ducasse/Containers-Stack) - A stack implementation.
 + [UniqueOrdered collection](https://github.com/Ducasse/Containers-UniqueOrdered) - Some collection to have unique ordered elements. 
 
