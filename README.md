@@ -177,7 +177,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Web
 + [ChartJs](https://github.com/DuneSt/ChartJs) - Seaside binding of ChartJs to display and interact with charts.
 + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
-+ [OpenAPI](https://github.com/zweidenker/OpenAPI) - A pharo implementation of OpenAPI 3.0.1.
++ [OpenAPI](https://github.com/zweidenker/OpenAPI) - A pharo implementation of [OpenAPI](https://www.openapis.org) 3.0.1, a specification for machine-readable interface files for describing, producing, consuming, and visualizing RESTful web services.
 + [Parasol](https://github.com/SeasideSt/Parasol) - Testing web apps in Smalltalk using Selenium WebDriver.
 + [PharoJS](https://github.com/bouraqadi/PharoJS) - Develop in Pharo, Run on Javascript.
 + [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) - Code displayer for Seaside base on Prism.js project.
