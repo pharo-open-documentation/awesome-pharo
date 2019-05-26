@@ -70,11 +70,14 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Databases
 + [CDB](https://github.com/Ducasse/CDB) - a CDB implementation in Pharo. 
 + [CouchDB](https://github.com/eMaringolo/pharo-couchdb) - Pharo client for CouchDB NoSQL Document Database.
++ [Garage](https://github.com/pharo-rdbms/garage) - Database drivers for the Pharo language.
 + [Glorp](https://github.com/pharo-rdbms/glorp) - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
 + [GlorpSQLite](https://github.com/PierceNg/glorp-sqlite3) - SQLite for Pharo, standalone and integrated with Glorp.
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
++ [Pharo-UDBC](https://github.com/astares/Pharo-UDBC) - Pharo Universal Database Connectivity.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
 + [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
++ [SQLite3](https://github.com/juliendelplanque/SQLite3) - A clean SQLite FFI binding for Pharo for those who only want to use SQLite easily.
 
 ## Documents Generation
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
