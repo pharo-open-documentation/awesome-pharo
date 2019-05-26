@@ -16,6 +16,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [IOT](#iot)
 - [Language extensions](#language-extensions)
 - [Loggers](#loggers)
+- [Meta-modelling](#meta-modelling)
 - [Miscellaneous](#miscellaneous)
 - [Network protocols](#network-protocols)
 - [Projects management](#projects-management)
@@ -115,6 +116,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Loggers
 + [Beacon](https://github.com/noha/pharo-beacon) - A logger using beacon.
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
+
+## Meta-modelling
++ [Magritte](https://github.com/magritte-metamodel/magritte) - A fully dynamic meta-description framework.
 
 ## Miscellaneous
 + [Citezen](https://github.com/Ducasse/Citezen) - A bibtext parser and tool suite.
