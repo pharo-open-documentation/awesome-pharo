@@ -159,6 +159,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## System interaction
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
 + [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
++ [PythonBridge](https://github.com/ObjectProfile/PythonBridge) - A bridge between Python and Pharo. This bridge allows to seamlessly use Python libraries in Pharo
++ [KerasBridge](https://github.com/ObjectProfile/KerasBridge) - Bridge between the Keras library for neural network and Pharo
 
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
