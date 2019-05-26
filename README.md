@@ -109,6 +109,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [OSC](https://github.com/Ducasse/OSC) - An open sound control library.
 
 ## IOT
++ [HID](https://github.com/tamerescrl/libusb-pharo#hid-layer) - An implementation of the Human Interface Device protocol with a driver to be used with libusb.
 + [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on Pharo.
 
 ## Language extensions
@@ -165,6 +166,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [PostgreSQLParser](https://github.com/juliendelplanque/PostgreSQLParser) - A parser for PostgreSQL queries and Plpg/SQL source code.
 
 ## System interaction
++ [LibUSB](https://github.com/tamerescrl/libusb-pharo) - A FFI binding to libusb C library.
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
 + [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
 + [PythonBridge](https://github.com/ObjectProfile/PythonBridge) - A bridge between Python and Pharo. This bridge allows to seamlessly use Python libraries in Pharo
