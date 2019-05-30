@@ -2,6 +2,8 @@
 
 A categorized community-driven collection of awesome Pharo libraries, tools, frameworks and software.
 
+## Table of contents
+
 - [Algorithms](#algorithms)
 - [Books](#books)
 - [Code generation](#code-generation)
