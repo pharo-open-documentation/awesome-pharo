@@ -193,6 +193,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
 
 ## Web
++ [Amber](https://amber-lang.net) - Amber is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. It uses Pharo as reference implementation.
 + [ChartJs](https://github.com/DuneSt/ChartJs) - Seaside binding of ChartJs to display and interact with charts.
 + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
 + [OpenAPI](https://github.com/zweidenker/OpenAPI) - A pharo implementation of [OpenAPI](https://www.openapis.org) 3.0.1, a machine-readable interface files specification for describing, producing, consuming, and visualizing RESTful web services.
