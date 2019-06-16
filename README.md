@@ -138,6 +138,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
 
 ## Network protocols
++ [FileSystemNetwork](http://smalltalkhub.com/#!/~UdoSchneider/FileSystemNetwork) - Adds WebDAV and FTP support to Pharo's FileSystem framework. This allows you to use remote WebDAV and FTP locations with the same (FileSystem) API that's used for disk access.
 + [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 
 ## Projects management
