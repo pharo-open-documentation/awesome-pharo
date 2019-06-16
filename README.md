@@ -132,6 +132,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
 + [ISO3166](https://github.com/hernanmd/ISO3166) - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
++ [PharoFamily](https://files.pharo.org/media/pharo-family1.pdf) - PDF image showing a part of Pharo ecosystem.
 + [PharoMisc](https://github.com/bouraqadi/PharoMisc) - Small utilities and libraries around various topics.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
