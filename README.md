@@ -61,6 +61,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [STON](https://github.com/svenvc/ston) - The Smalltalk Object Notation, similar to JSON but for Smalltalk.
 + [Tabular](https://github.com/VincentBlondeau/Tabular) - Support of common spreadsheets formats (CSV, XLSX, ODS).
 + [XML-Support](https://github.com/svenvc/XML-Support-Pharo) - XML Support for Pharo.
++ [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
 ## Data Structure
 + [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
