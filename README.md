@@ -55,6 +55,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [CSV](https://github.com/svenvc/NeoCSV) - NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.
 + [msgpack-smalltalk](https://github.com/msgpack/msgpack-smalltalk) - MessagePack serialization library.
 + [NeoJSON](https://github.com/svenvc/NeoJSON) - Framework to handle JSON in Pharo.
++ [pharo-ical](https://github.com/juliendelplanque/pharo-ical) - iCalendar import and export.
 + [Pillar](https://github.com/pillar-markup/pillar) - Markup syntax and associated tools to write and generate documentation, books and slides.
 + [Protobuf](https://github.com/jvdsandt/protobuf-smalltalk) - [Google's protocol buffers](https://developers.google.com/protocol-buffers/) support for Pharo Smalltalk.
 + [SIXX](https://github.com/mumez/SIXX) - XML serializer/deserializer.
