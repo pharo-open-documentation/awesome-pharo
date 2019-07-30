@@ -158,6 +158,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Dataframe](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
 + [GADM](https://github.com/hernanmd/GADM) - A browseable GADM world tree for Pharo Smalltalk.
 + [Geometry](https://github.com/TelescopeSt/Geometry) - A library for representing basic geometry elements and doing computations with them.
++ [HoneyGinger](https://github.com/tomooda/HoneyGinger) - a fluid dynamics simulation engine focused on interactivity and visualization
 + [Kendrick](https://github.com/UMMISCO/kendrick) - Domain-Specific Modeling for Epidemiology.
 + [libtensorflow-pharo-bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - TensorFlow library bindings for Pharo.
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
