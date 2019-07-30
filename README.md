@@ -177,6 +177,11 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## System interaction
 + [LibUSB](https://github.com/tamerescrl/libusb-pharo) - A FFI binding to libusb C library.
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
++ [Pharo-OS-Linux-Ubuntu](https://github.com/astares/Pharo-OS-Linux-Ubuntu) - Support for Ubuntu operating system for Pharo.
++ [Pharo-OS-OSX](https://github.com/astares/Pharo-OS-OSX) - Support for OSX operating system for Pharo.
++ [Pharo-OS-Unix](https://github.com/astares/Pharo-OS-Unix) - Support for Unix operating system for Pharo.
++ [Pharo-OS-Raspbian](https://github.com/astares/Pharo-OS-Raspbian) - Support for Raspbian operating system for Pharo.
++ [Pharo-OS-Windows](https://github.com/astares/Pharo-OS-Windows) - Support for Windows operating system for Pharo.
 + [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
 + [PythonBridge](https://github.com/ObjectProfile/PythonBridge) - A bridge between Python and Pharo. This bridge allows to seamlessly use Python libraries in Pharo
 + [KerasBridge](https://github.com/ObjectProfile/KerasBridge) - Bridge between the Keras library for neural network and Pharo
