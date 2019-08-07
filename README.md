@@ -199,6 +199,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Videos
 + [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) to infect a Morph, making it change the color of other Morphs it touches.
++ [Pharo Tech Talk Feb 2017 : Reflectivity](https://www.youtube.com/watch?v=H52MAu_ISgU) - Reflectivity in Pharo6.
++ [Pharo Techtalk: Consortium/Association 2017](https://www.youtube.com/watch?v=jYtNinyj69I) - Live stream for the pharo tech talk March 2018.
++ [Pharo TechTalk July 2019: Contribute to Pharo](https://www.youtube.com/watch?v=90T0OSb_Fuo) - TechTalk showing how to contribute to Pharo.
 
 ## VCS
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
