@@ -67,6 +67,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Data Structure
 + [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
 + [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
++ [Iterators](https://github.com/juliendelplanque/Iterators) - Implementation of the iterator design pattern.
 + [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
 + [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order preserving dictionary.
 + [PropertyEnvironment](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary of properties with a lookup in ancestors (also called environment in other languages).
