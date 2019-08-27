@@ -143,6 +143,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Network protocols
 + [FileSystemNetwork](http://smalltalkhub.com/#!/~UdoSchneider/FileSystemNetwork) - Adds WebDAV and FTP support to Pharo's FileSystem framework. This allows you to use remote WebDAV and FTP locations with the same (FileSystem) API that's used for disk access.
 + [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
++ [Zodiac](https://github.com/svenvc/zodiac) (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
 
 ## Projects management
 + [Chrysal](https://github.com/Ducasse/Chrysal) - How to manage application configuration. 
