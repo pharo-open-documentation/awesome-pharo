@@ -8,6 +8,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Command line](#command-line)
 - [Data interexchange format](#data-interexchange-format)
 - [Databases](#databases)
+- [Datasets](#datasets)
 - [Graphics](#graphics)
 - [IDE](#ide)
 - [IOT](#iot)
@@ -51,6 +52,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Databases
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
+
+## Datasets
++ [Les Miserables](https://github.com/bergel/LesMiserables) - Coappearance characters of Les Miserables.
 
 ## Graphics
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
