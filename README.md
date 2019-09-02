@@ -11,6 +11,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Data interexchange format](#data-interexchange-format)
 - [Data structure](#data-structure)
 - [Databases](#databases)
+- [Datasets](#datasets)
 - [Documents generation](#documents-generation)
 - [Graphics](#graphics)
 - [IDE](#ide)
@@ -86,6 +87,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
 + [SQLite3](https://github.com/juliendelplanque/SQLite3) - A clean SQLite FFI binding for Pharo for those who only want to use SQLite easily.
 + [Voyage](https://github.com/pharo-nosql/voyage) - An object persistence abstraction layer for Pharo.
+
+## Datasets
++ [Les Miserables](https://github.com/bergel/LesMiserables) - Coappearance characters of Les Miserables.
 
 ## Documents Generation
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
