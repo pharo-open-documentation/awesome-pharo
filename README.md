@@ -18,6 +18,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Interaction](#interaction)
 - [IOT](#iot)
 - [Language extensions](#language-extensions)
+- [LaTeX](#latex)
 - [Loggers](#loggers)
 - [Meta-modelling](#meta-modelling)
 - [Miscellaneous](#miscellaneous)
@@ -123,7 +124,11 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on Pharo.
 
 ## Language extensions
-+ [Talents](https://github.com/tesonep/pharo-talents) - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances. 
++ [Talents](https://github.com/tesonep/pharo-talents) - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances.
+
+## LaTeX
++ [Citezen](https://github.com/Ducasse/Citezen) - A bibtext parser and tool suite.
++ [SmalltalkEnv](https://github.com/mattonem/SmalltalkEnv) - LaTeX environment for Smalltalk.
 
 ## Loggers
 + [Beacon](https://github.com/noha/pharo-beacon) - A logger using beacon.
@@ -133,7 +138,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Magritte](https://github.com/magritte-metamodel/magritte) - A fully dynamic meta-description framework.
 
 ## Miscellaneous
-+ [Citezen](https://github.com/Ducasse/Citezen) - A bibtext parser and tool suite.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [DMirror](https://github.com/ObjectProfile/DMirror) - Tool to spawn new job on forked Pharo images.
 + [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
