@@ -46,6 +46,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [SquareBracketAssociates](https://github.com/SquareBracketAssociates) - Organisation grouping repositories for various books around Pharo.
 
 ## Code generation
++ [PharoJS](https://github.com/bouraqadi/PharoJS) - Converts Pharo code to Javascript.
 - [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
 
 ## Command line
@@ -188,6 +189,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## System interaction
 + [LibUSB](https://github.com/tamerescrl/libusb-pharo) - A FFI binding to libusb C library.
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
++ [PharoJS](https://github.com/bouraqadi/PharoJS) - Includes a bridge between Pharo and Javascript. Allows to have Pharo apps use Javascript libraries.
 + [Pharo-OS-Linux-Ubuntu](https://github.com/astares/Pharo-OS-Linux-Ubuntu) - Support for Ubuntu operating system for Pharo.
 + [Pharo-OS-OSX](https://github.com/astares/Pharo-OS-OSX) - Support for OSX operating system for Pharo.
 + [Pharo-OS-Unix](https://github.com/astares/Pharo-OS-Unix) - Support for Unix operating system for Pharo.
