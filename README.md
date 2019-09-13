@@ -46,6 +46,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [SquareBracketAssociates](https://github.com/SquareBracketAssociates) - Organisation grouping repositories for various books around Pharo.
 
 ## Code generation
++ [PharoJS](https://github.com/bouraqadi/PharoJS) - Converts Pharo code to Javascript.
 - [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
 
 ## Command line
