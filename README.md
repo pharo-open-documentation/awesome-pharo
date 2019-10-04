@@ -32,6 +32,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [VCS](#vcs)
 - [Videos](#videos)
 - [Web](#web)
+- [Web API clients](#web-api-clients)
 
 ## Algorithms
 + [DeepTraverser](https://github.com/pharo-contributions/DeepTraverser) - Library for traversing object graphs (managing cycles).
@@ -234,3 +235,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on Cytoscape.js.
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 + [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.
+
+## Web API clients
+- [DiscordSt](https://github.com/JurajKubelka/DiscordSt) - DiscordSt is a client for Discord written in Pharo.
