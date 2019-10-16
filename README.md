@@ -149,6 +149,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [PharoFamily](https://files.pharo.org/media/pharo-family1.pdf) - PDF image showing a part of Pharo ecosystem.
 + [PharoMisc](https://github.com/bouraqadi/PharoMisc) - Small utilities and libraries around various topics.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
++ [Territorial](https://github.com/hernanmd/Territorial) - Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.
 + [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
 
 ## Network protocols
