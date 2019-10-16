@@ -104,6 +104,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
 + [Jun](https://github.com/tomooda/Jun) - A 3D graphics library with chemoinformatics extensions.
++ [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) - Pharo support for PlantUML.
 + [Roassal](https://github.com/ObjectProfile/Roassal2) - The agile 2D visualization engine for Pharo.
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
