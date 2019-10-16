@@ -15,6 +15,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Documents generation](#documents-generation)
 - [Graphics](#graphics)
 - [IDE](#ide)
+- [Images management](#images-management)
 - [Interaction](#interaction)
 - [IOT](#iot)
 - [Language extensions](#language-extensions)
@@ -117,6 +118,11 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [QualityAssistant](https://github.com/Uko/QualityAssistant) - A live feedback code quality tool for Pharo.
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
+
+## Images management
++ [fari.sh](https://github.com/cdlm/fari.sh) - Fresh, ready-to-hack Pharo images.
++ [Pharo Install](https://github.com/hernanmd/pi) - A command-line tool for installing Pharo Smalltalk packages into fresh images.
++ [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) - Official tool to manage your pharo images and download new ones.
 
 ## Interaction
 + [TUIO](https://github.com/Ducasse/TUIO) - A driver for TUIO.
