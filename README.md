@@ -15,7 +15,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Documents generation](#documents-generation)
 - [Graphics](#graphics)
 - [IDE](#ide)
-- [Images management](#images-management)
 - [Interaction](#interaction)
 - [IOT](#iot)
 - [Language extensions](#language-extensions)
@@ -24,6 +23,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Meta-modelling](#meta-modelling)
 - [Miscellaneous](#miscellaneous)
 - [Network protocols](#network-protocols)
+- [Pharo images management](#pharo-images-management)
 - [Projects management](#projects-management)
 - [Scientific libraries](#scientific-libraries)
 - [Software / data analysis](#software--data-analysis)
@@ -119,11 +119,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
 
-## Images management
-+ [fari.sh](https://github.com/cdlm/fari.sh) - Fresh, ready-to-hack Pharo images.
-+ [Pharo Install](https://github.com/hernanmd/pi) - A command-line tool for installing Pharo Smalltalk packages into fresh images.
-+ [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) - Official tool to manage your pharo images and download new ones.
-
 ## Interaction
 + [TUIO](https://github.com/Ducasse/TUIO) - A driver for TUIO.
 + [OSC](https://github.com/Ducasse/OSC) - An open sound control library.
@@ -161,6 +156,11 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [FileSystemNetwork](http://smalltalkhub.com/#!/~UdoSchneider/FileSystemNetwork) - Adds WebDAV and FTP support to Pharo's FileSystem framework. This allows you to use remote WebDAV and FTP locations with the same (FileSystem) API that's used for disk access.
 + [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 + [Zodiac](https://github.com/svenvc/zodiac) (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
+
+## Pharo images management
++ [fari.sh](https://github.com/cdlm/fari.sh) - Fresh, ready-to-hack Pharo images.
++ [Pharo Install](https://github.com/hernanmd/pi) - A command-line tool for installing Pharo Smalltalk packages into fresh images.
++ [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) - Official tool to manage your pharo images and download new ones.
 
 ## Projects management
 + [Chrysal](https://github.com/Ducasse/Chrysal) - How to manage application configuration. 
