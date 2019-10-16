@@ -87,6 +87,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Glorp](https://github.com/pharo-rdbms/glorp) - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
 + [GlorpSQLite](https://github.com/PierceNg/glorp-sqlite3) - SQLite for Pharo, standalone and integrated with Glorp.
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
++ [pharo-ado](https://github.com/eftomi/pharo-ado) - Enable data persistence in Pharo by using ActiveX Data Objects (ADO) on Microsoft Windows and external DBMS.
 + [Pharo-UDBC](https://github.com/astares/Pharo-UDBC) - Pharo Universal Database Connectivity.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
 + [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
