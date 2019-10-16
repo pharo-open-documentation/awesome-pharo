@@ -143,6 +143,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Magritte](https://github.com/magritte-metamodel/magritte) - A fully dynamic meta-description framework.
 
 ## Miscellaneous
++ [Aconcagua](https://github.com/ba-st/aconcagua) - This model represents measures as first class objects, that is, an object that encapsulates a number with its unit.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [DMirror](https://github.com/ObjectProfile/DMirror) - Tool to spawn new job on forked Pharo images.
 + [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
