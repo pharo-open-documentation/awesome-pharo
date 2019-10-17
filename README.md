@@ -90,6 +90,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [pharo-ado](https://github.com/eftomi/pharo-ado) - Enable data persistence in Pharo by using ActiveX Data Objects (ADO) on Microsoft Windows and external DBMS.
 + [Pharo-UDBC](https://github.com/astares/Pharo-UDBC) - Pharo Universal Database Connectivity.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
++ [Tarantalk](https://github.com/mumez/Tarantalk) - Tarantool client for Pharo.
 + [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
 + [SQLite3](https://github.com/juliendelplanque/SQLite3) - A clean SQLite FFI binding for Pharo for those who only want to use SQLite easily.
 + [Voyage](https://github.com/pharo-nosql/voyage) - An object persistence abstraction layer for Pharo.
