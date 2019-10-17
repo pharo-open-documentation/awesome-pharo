@@ -150,6 +150,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [DMirror](https://github.com/ObjectProfile/DMirror) - Tool to spawn new job on forked Pharo images.
 + [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
 + [Fog](https://github.com/smartanvil/Fog) - Pharo Ethereum Driver.
++ [IPFS](https://github.com/khinsen/ipfs-pharo) - Binding to InterPlanetary File System for Pharo.
 + [ISO3166](https://github.com/hernanmd/ISO3166) - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [PharoFamily](https://files.pharo.org/media/pharo-family1.pdf) - PDF image showing a part of Pharo ecosystem.
