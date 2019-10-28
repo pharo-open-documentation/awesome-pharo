@@ -49,7 +49,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Code generation
 + [PharoJS](https://github.com/bouraqadi/PharoJS) - Converts Pharo code to Javascript.
-- [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
++ [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
++ [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) - Block-based API for XML generation for Pharo.
 
 ## Command line
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
