@@ -7,6 +7,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Algorithms](#algorithms)
 - [Books](#books)
 - [Code generation](#code-generation)
+- [Code quality](#code-quality)
 - [Command line](#command-line)
 - [Data interexchange format](#data-interexchange-format)
 - [Data structure](#data-structure)
@@ -51,6 +52,10 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [PharoJS](https://github.com/bouraqadi/PharoJS) - Converts Pharo code to Javascript.
 + [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
 + [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) - Block-based API for XML generation for Pharo.
+
+## Code quality
++ [QualityAssistant](https://github.com/Uko/QualityAssistant) - A live feedback code quality tool for Pharo.
++ [Rules](https://github.com/jecisc/Rules) - Rules is a small model of rules that a model should not violate. It is able to compute the technical debt for a set of violations.
 
 ## Command line
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
@@ -120,7 +125,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) - Moldable IDE for Pharo.
 + [Mirage](https://github.com/juliendelplanque/Mirage) - A windows switcher with a previewer for Pharo.
 + [Native-Browser](https://github.com/jecisc/Native-Browser) - A small project to add the possibility to open native browser via a FileReference.
-+ [QualityAssistant](https://github.com/Uko/QualityAssistant) - A live feedback code quality tool for Pharo.
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
 
