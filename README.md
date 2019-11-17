@@ -64,6 +64,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Data interexchange format
 + [CSV](https://github.com/svenvc/NeoCSV) - NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.
++ [Fuel](https://github.com/theseion/Fuel) - A general-purpose object serialization framework for Squeak and Pharo, developed in Pharo.
 + [msgpack-smalltalk](https://github.com/msgpack/msgpack-smalltalk) - MessagePack serialization library.
 + [NeoJSON](https://github.com/svenvc/NeoJSON) - Framework to handle JSON in Pharo.
 + [NeoUniversalBinaryJSON](https://github.com/svenvc/NeoUniversalBinaryJSON) - An implementation of [Universal Binary JSON](http://ubjson.org) (UBJSON) for Pharo.
