@@ -162,6 +162,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [PharoFamily](https://files.pharo.org/media/pharo-family1.pdf) - PDF image showing a part of Pharo ecosystem.
 + [PharoMisc](https://github.com/bouraqadi/PharoMisc) - Small utilities and libraries around various topics.
++ [PTerm](https://github.com/lxsang/PTerm) - Using Unix terminal from Pharo.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Territorial](https://github.com/hernanmd/Territorial) - Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.
 + [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
