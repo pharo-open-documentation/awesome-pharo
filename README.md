@@ -28,6 +28,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Projects management](#projects-management)
 - [Scientific libraries](#scientific-libraries)
 - [Software / data analysis](#software--data-analysis)
+- [Sound](#sound)
 - [System interaction](#system-interaction)
 - [Testing](#testing)
 - [Tutorials](#tutorials)
@@ -207,6 +208,10 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Moose](https://github.com/moosetechnology/Moose) - Platform for software and data analysis.
 + [PetitParser](https://github.com/moosetechnology/PetitParser) - Petit Parser is a framework for building parsers using objects.
 + [PostgreSQLParser](https://github.com/juliendelplanque/PostgreSQLParser) - A parser for PostgreSQL queries and Plpg/SQL source code.
+
+## Sound
++ [Pharo-LibVLC](https://github.com/badetitou/Pharo-LibVLC) - FFI binding to [libVLC](https://www.videolan.org/developers/vlc/doc/doxygen/html/group__libvlc.html).
++ [PharoSound](https://github.com/psvensson/PharoSound) - Sound facilities for Pharo.
 
 ## System interaction
 + [LibUSB](https://github.com/tamerescrl/libusb-pharo) - A FFI binding to libusb C library.
