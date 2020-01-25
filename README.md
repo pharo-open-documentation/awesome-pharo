@@ -166,7 +166,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [PharoMisc](https://github.com/bouraqadi/PharoMisc) - Small utilities and libraries around various topics.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Territorial](https://github.com/hernanmd/Territorial) - Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.
-+ [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
 
 ## Network protocols
 + [FileSystemNetwork](http://smalltalkhub.com/#!/~UdoSchneider/FileSystemNetwork) - Adds WebDAV and FTP support to Pharo's FileSystem framework. This allows you to use remote WebDAV and FTP locations with the same (FileSystem) API that's used for disk access.
@@ -198,7 +197,8 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
 + [Polymath](https://github.com/PolyMathOrg/PolyMath) - Set of mathematical tools for Pharo. Similar to numpy in Python.
 + [RMapViewer](https://github.com/ReactionMap/RMapViewer) - A Viewer for chemical reaction maps.
-+ [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.        
++ [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.
++ [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
 + [Z3950](https://github.com/hernanmd/Z3950) - ZOOM FFI Client for Z39.50 Protocol.
 
 ## Software / data analysis
