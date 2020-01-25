@@ -78,7 +78,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [XML-Support](https://github.com/svenvc/XML-Support-Pharo) - XML Support for Pharo.
 + [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
-## Data Structure
+## Data Structures
 + [DataFrame](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
 + [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
 + [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
