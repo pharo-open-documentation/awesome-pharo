@@ -85,6 +85,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Iterators](https://github.com/juliendelplanque/Iterators) - Implementation of the iterator design pattern.
 + [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
 + [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order preserving dictionary.
++ [OrderedSet](https://github.com/olekscode/Containers-OrderedSet) - A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection.
 + [PropertyEnvironment](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary of properties with a lookup in ancestors (also called environment in other languages).
 + [Stack implementation](https://github.com/Ducasse/Containers-Stack) - A stack implementation.
 + [UniqueOrdered collection](https://github.com/Ducasse/Containers-UniqueOrdered) - Some collection to have unique ordered elements. 
