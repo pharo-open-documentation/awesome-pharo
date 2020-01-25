@@ -199,7 +199,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Polymath](https://github.com/PolyMathOrg/PolyMath) - Set of mathematical tools for Pharo. Similar to numpy in Python.
 + [RMapViewer](https://github.com/ReactionMap/RMapViewer) - A Viewer for chemical reaction maps.
 + [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.        
-+ [Territorial](https://github.com/hernanmd/Territorial) - Geographic Information Retrieval Library.
 + [Z3950](https://github.com/hernanmd/Z3950) - ZOOM FFI Client for Z39.50 Protocol.
 
 ## Software / data analysis
