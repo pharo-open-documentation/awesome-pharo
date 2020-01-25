@@ -226,6 +226,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
++ [DrTests](https://github.com/juliendelplanque/DrTests/) - An extendable, plugins-based UI for testing Pharo projects.
 + [Hapao](https://github.com/ObjectProfile/Spy2) - Spy2 is a profiling framework. Spy2 contains Hapao, the visual test coverage tool.
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
