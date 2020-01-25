@@ -10,7 +10,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Code quality](#code-quality)
 - [Command line](#command-line)
 - [Data interexchange format](#data-interexchange-format)
-- [Data structure](#data-structure)
+- [Data structures](#data-structures)
 - [Databases](#databases)
 - [Datasets](#datasets)
 - [Documents generation](#documents-generation)
