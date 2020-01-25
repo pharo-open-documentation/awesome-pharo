@@ -43,7 +43,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [FuzzySearcher](https://github.com/hernanmd/FuzzySearcher) - Simplified implementation of ambiguous matching algorithm based on Baeta-Yates, R.A., Gonnet, G.H., Wu, S. and Manber, U.
 + [StableMarriage](https://github.com/juliendelplanque/StableMarriage) - A solver for the stable marriage problem written in Pharo.
 
-## Artificial Intelligense and Machine Learning
+## Artificial Intelligence and Machine Learning
 
 The full list of AI and machine learning libraries, tools, and resources for Pharo is available at [PharoAI / awesome-pharo-ml](https://github.com/PharoAI/awesome-pharo-ml).
 
