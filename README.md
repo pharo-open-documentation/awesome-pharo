@@ -5,7 +5,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Table of contents
 
 - [Algorithms](#algorithms)
-- [Artificial Intelligense and Machine Learning](#artificial-intelligence-and-machine-learning)
+- [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
 - [Books](#books)
 - [Code generation](#code-generation)
 - [Code quality](#code-quality)
