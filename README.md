@@ -47,14 +47,14 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 The full list of AI and machine learning libraries, tools, and resources for Pharo is available at [PharoAI / awesome-pharo-ml](https://github.com/PharoAI/awesome-pharo-ml).
 
-+ [Keras Wrapper](https://github.com/ObjectProfile/KerasWrapper) - allows to use [Keras](https://keras.io/) functions within Pharo.
-+ [NEAT (NeuroEvolution of Augmenting Topologies)](https://github.com/bergel/NEAT) - a genetic algorithm for evolving artificial neural networks. NEAT is probably the most popular algorithm for neuroevolution.
++ [Keras Wrapper](https://github.com/ObjectProfile/KerasWrapper) - Allows to use [Keras](https://keras.io/) functions within Pharo.
++ [NEAT (NeuroEvolution of Augmenting Topologies)](https://github.com/bergel/NEAT) - A genetic algorithm for evolving artificial neural networks. NEAT is probably the most popular algorithm for neuroevolution.
 + [PharoAI / APriori](https://github.com/PharoAI/APriori) - Fast algorithm for mining frequent sets of items and finding association rules between items in a database of transactions.
 + [PharoAI / KMeans](https://github.com/PharoAI/KMeans) - K-means clustering.
 + [PharoAI / NaiveBayesClassifier](https://github.com/PharoAI/NaiveBayesClassifier) - Implementation of a multinomial Naive Bayes classifier in Pharo that can be used for simple spam detection and sentiment analysis.
 + [PharoAI / NgramModel](https://github.com/PharoAI/NgramModel) - N-gram language model that can be trained to estimate the probability of a next word based on N-1 previous words.
 + [PharoAI / TF-IDF](https://github.com/PharoAI/TF-IDF) - Term Frequency - Inverse Document Frequency (TF-IDF), a statistical metric that reflects the importance of a word in a document. Can be used for finding keywords, ranking words by importance, or as a simple way of finding semantic similarity between documents.
-+ [TensorFlow Bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo.
++ [TensorFlow Bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - Allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo.
 
 ## Books
 + [https://books.pharo.org](https://books.pharo.org) - Pharo books are a collection of technical or textbook books around Pharo. 
