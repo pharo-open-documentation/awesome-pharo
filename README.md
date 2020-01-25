@@ -79,6 +79,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
 ## Data Structure
++ [DataFrame](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
 + [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
 + [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
 + [Iterators](https://github.com/juliendelplanque/Iterators) - Implementation of the iterator design pattern.
@@ -189,7 +190,6 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Scientific libraries
 + [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) - Bioinformatics Library for Pharo Smalltalk.
 + [CORMAS](https://github.com/cormas/cormas) - CORMAS (Common-pool Resource and Mutli-Agent Simulation) is a agent based model library in Smalltalk.
-+ [Dataframe](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
 + [GADM](https://github.com/hernanmd/GADM) - A browseable GADM world tree for Pharo Smalltalk.
 + [Geometry](https://github.com/TelescopeSt/Geometry) - A library for representing basic geometry elements and doing computations with them.
 + [HoneyGinger](https://github.com/tomooda/HoneyGinger) - a fluid dynamics simulation engine focused on interactivity and visualization
