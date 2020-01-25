@@ -106,6 +106,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Voyage](https://github.com/pharo-nosql/voyage) - An object persistence abstraction layer for Pharo.
 
 ## Datasets
++ [Datasets](https://github.com/PharoAI/Datasets) - A collection of small toy datasets used for demonstration and experiments with AI and machine learning. Includes many famous datasets such as Iris, Boston Housing, Wine, Diabetes, MNIST, etc.
 + [Les Miserables](https://github.com/bergel/LesMiserables) - Coappearance characters of Les Miserables.
 
 ## Documents Generation
