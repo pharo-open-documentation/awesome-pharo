@@ -5,12 +5,13 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Table of contents
 
 - [Algorithms](#algorithms)
+- [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
 - [Books](#books)
 - [Code generation](#code-generation)
 - [Code quality](#code-quality)
 - [Command line](#command-line)
 - [Data interexchange format](#data-interexchange-format)
-- [Data structure](#data-structure)
+- [Data structures](#data-structures)
 - [Databases](#databases)
 - [Datasets](#datasets)
 - [Documents generation](#documents-generation)
@@ -41,6 +42,19 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [DeepTraverser](https://github.com/pharo-contributions/DeepTraverser) - Library for traversing object graphs (managing cycles).
 + [FuzzySearcher](https://github.com/hernanmd/FuzzySearcher) - Simplified implementation of ambiguous matching algorithm based on Baeta-Yates, R.A., Gonnet, G.H., Wu, S. and Manber, U.
 + [StableMarriage](https://github.com/juliendelplanque/StableMarriage) - A solver for the stable marriage problem written in Pharo.
+
+## Artificial Intelligence and Machine Learning
+
+The full list of AI and machine learning libraries, tools, and resources for Pharo is available at [PharoAI / awesome-pharo-ml](https://github.com/PharoAI/awesome-pharo-ml).
+
++ [Keras Wrapper](https://github.com/ObjectProfile/KerasWrapper) - Allows to use [Keras](https://keras.io/) functions within Pharo.
++ [NEAT (NeuroEvolution of Augmenting Topologies)](https://github.com/bergel/NEAT) - A genetic algorithm for evolving artificial neural networks. NEAT is probably the most popular algorithm for neuroevolution.
++ [PharoAI / APriori](https://github.com/PharoAI/APriori) - Fast algorithm for mining frequent sets of items and finding association rules between items in a database of transactions.
++ [PharoAI / KMeans](https://github.com/PharoAI/KMeans) - K-means clustering.
++ [PharoAI / NaiveBayesClassifier](https://github.com/PharoAI/NaiveBayesClassifier) - Implementation of a multinomial Naive Bayes classifier in Pharo that can be used for simple spam detection and sentiment analysis.
++ [PharoAI / NgramModel](https://github.com/PharoAI/NgramModel) - N-gram language model that can be trained to estimate the probability of a next word based on N-1 previous words.
++ [PharoAI / TF-IDF](https://github.com/PharoAI/TF-IDF) - Term Frequency - Inverse Document Frequency (TF-IDF), a statistical metric that reflects the importance of a word in a document. Can be used for finding keywords, ranking words by importance, or as a simple way of finding semantic similarity between documents.
++ [TensorFlow Bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - Allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo.
 
 ## Books
 + [https://books.pharo.org](https://books.pharo.org) - Pharo books are a collection of technical or textbook books around Pharo. 
@@ -78,12 +92,14 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [XML-Support](https://github.com/svenvc/XML-Support-Pharo) - XML Support for Pharo.
 + [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
-## Data Structure
+## Data Structures
++ [DataFrame](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
 + [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
 + [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
 + [Iterators](https://github.com/juliendelplanque/Iterators) - Implementation of the iterator design pattern.
 + [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
 + [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order preserving dictionary.
++ [OrderedSet](https://github.com/olekscode/Containers-OrderedSet) - A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection.
 + [PropertyEnvironment](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary of properties with a lookup in ancestors (also called environment in other languages).
 + [Stack implementation](https://github.com/Ducasse/Containers-Stack) - A stack implementation.
 + [UniqueOrdered collection](https://github.com/Ducasse/Containers-UniqueOrdered) - Some collection to have unique ordered elements. 
@@ -104,7 +120,9 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Voyage](https://github.com/pharo-nosql/voyage) - An object persistence abstraction layer for Pharo.
 
 ## Datasets
++ [Datasets](https://github.com/PharoAI/Datasets) - A collection of small toy datasets used for demonstration and experiments with AI and machine learning. Includes many famous datasets such as Iris, Boston Housing, Wine, Diabetes, MNIST, etc.
 + [Les Miserables](https://github.com/bergel/LesMiserables) - Coappearance characters of Les Miserables.
++ [RandomPartitioner](https://github.com/PharoAI/RandomPartitioner) - A tool for partitioning a dataset. Given a set of proportions (e.g. 50%, 30%, and 20%), it shuffles the collection and divides it into non-empty subsets in such a way that every element is included in exactly one subset. Can be used in machine learning and statistical analysis for splitting datasets into training, validation, and test sets.
 
 ## Documents Generation
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
@@ -116,6 +134,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
 + [Jun](https://github.com/tomooda/Jun) - A 3D graphics library with chemoinformatics extensions.
++ [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) - Pharo support for PlantUML.
 + [Roassal](https://github.com/ObjectProfile/Roassal2) - The agile 2D visualization engine for Pharo.
 + [Sparta](https://github.com/syrel/Sparta) - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend. 
@@ -160,12 +179,10 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 + [Fog](https://github.com/smartanvil/Fog) - Pharo Ethereum Driver.
 + [IPFS](https://github.com/khinsen/ipfs-pharo) - Binding to InterPlanetary File System for Pharo.
 + [ISO3166](https://github.com/hernanmd/ISO3166) - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
-+ [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [PharoFamily](https://files.pharo.org/media/pharo-family1.pdf) - PDF image showing a part of Pharo ecosystem.
 + [PharoMisc](https://github.com/bouraqadi/PharoMisc) - Small utilities and libraries around various topics.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Territorial](https://github.com/hernanmd/Territorial) - Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.
-+ [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
 
 ## Network protocols
 + [FileSystemNetwork](http://smalltalkhub.com/#!/~UdoSchneider/FileSystemNetwork) - Adds WebDAV and FTP support to Pharo's FileSystem framework. This allows you to use remote WebDAV and FTP locations with the same (FileSystem) API that's used for disk access.
@@ -189,17 +206,15 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 ## Scientific libraries
 + [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) - Bioinformatics Library for Pharo Smalltalk.
 + [CORMAS](https://github.com/cormas/cormas) - CORMAS (Common-pool Resource and Mutli-Agent Simulation) is a agent based model library in Smalltalk.
-+ [Dataframe](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
 + [GADM](https://github.com/hernanmd/GADM) - A browseable GADM world tree for Pharo Smalltalk.
 + [Geometry](https://github.com/TelescopeSt/Geometry) - A library for representing basic geometry elements and doing computations with them.
 + [HoneyGinger](https://github.com/tomooda/HoneyGinger) - a fluid dynamics simulation engine focused on interactivity and visualization
 + [Kendrick](https://github.com/UMMISCO/kendrick) - Domain-Specific Modeling for Epidemiology.
-+ [libtensorflow-pharo-bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - TensorFlow library bindings for Pharo.
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
 + [Polymath](https://github.com/PolyMathOrg/PolyMath) - Set of mathematical tools for Pharo. Similar to numpy in Python.
 + [RMapViewer](https://github.com/ReactionMap/RMapViewer) - A Viewer for chemical reaction maps.
-+ [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.        
-+ [Territorial](https://github.com/hernanmd/Territorial) - Geographic Information Retrieval Library.
++ [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.
++ [Units](https://github.com/zweidenker/Units) - A simple package for Units management in Pharo.
 + [Z3950](https://github.com/hernanmd/Z3950) - ZOOM FFI Client for Z39.50 Protocol.
 
 ## Software / data analysis
@@ -227,6 +242,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
++ [DrTests](https://github.com/juliendelplanque/DrTests/) - An extendable, plugins-based UI for testing Pharo projects.
 + [Hapao](https://github.com/ObjectProfile/Spy2) - Spy2 is a profiling framework. Spy2 contains Hapao, the visual test coverage tool.
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
