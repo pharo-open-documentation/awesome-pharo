@@ -89,7 +89,13 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [SIXX](https://github.com/mumez/SIXX) - XML serializer/deserializer.
 + [STON](https://github.com/svenvc/ston) - The Smalltalk Object Notation, similar to JSON but for Smalltalk.
 + [Tabular](https://github.com/VincentBlondeau/Tabular) - Support of common spreadsheets formats (CSV, XLSX, ODS).
++ [XML-Pastell](https://github.com/pharo-contributions/XML-Pastell) - An XPath-like DSL that makes navigation in XML DOM trees easier.
++ [XML-Parser](https://github.com/pharo-contributions/XML-XMLParser) - Official XML parser maintained by Pharo community.
 + [XML-Support](https://github.com/svenvc/XML-Support-Pharo) - XML Support for Pharo.
++ [XML-XMLParserStAX](https://github.com/pharo-contributions/XML-XMLParserStAX) - Official XML pull parser for XMLParser maintained by Pharo community.
++ [XML-XMLParserHTML](https://github.com/pharo-contributions/XML-XMLParserHTML) - Official parsers for HTML that convert possibly malformed HTML into well-formed XML maintained by Pharo community.
++ [XML-XMLWriter](XML-XMLWriter) - Official XML generation framework maintained by Pharo community.
++ [XML-XPath](https://github.com/pharo-contributions/XML-XPath) - Official XPath library for Pharo.
 + [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
 ## Data Structures
