@@ -181,6 +181,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [ISO3166](https://github.com/hernanmd/ISO3166) - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
 + [PharoFamily](https://files.pharo.org/media/pharo-family1.pdf) - PDF image showing a part of Pharo ecosystem.
 + [PharoMisc](https://github.com/bouraqadi/PharoMisc) - Small utilities and libraries around various topics.
++ [PTerm](https://github.com/lxsang/PTerm) - Using Unix terminal from Pharo.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Territorial](https://github.com/hernanmd/Territorial) - Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.
 
