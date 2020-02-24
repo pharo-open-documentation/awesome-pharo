@@ -45,15 +45,15 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 
 ## Artificial Intelligence and Machine Learning
 
-The full list of AI and machine learning libraries, tools, and resources for Pharo is available at [PharoAI / awesome-pharo-ml](https://github.com/PharoAI/awesome-pharo-ml).
+The full list of AI and machine learning libraries, tools, and resources for Pharo is available at [pharo-ai / awesome-pharo-ml](https://github.com/pharo-ai/awesome-pharo-ml).
 
 + [Keras Wrapper](https://github.com/ObjectProfile/KerasWrapper) - Allows to use [Keras](https://keras.io/) functions within Pharo.
 + [NEAT (NeuroEvolution of Augmenting Topologies)](https://github.com/bergel/NEAT) - A genetic algorithm for evolving artificial neural networks. NEAT is probably the most popular algorithm for neuroevolution.
-+ [PharoAI / APriori](https://github.com/PharoAI/APriori) - Fast algorithm for mining frequent sets of items and finding association rules between items in a database of transactions.
-+ [PharoAI / KMeans](https://github.com/PharoAI/KMeans) - K-means clustering.
-+ [PharoAI / NaiveBayesClassifier](https://github.com/PharoAI/NaiveBayesClassifier) - Implementation of a multinomial Naive Bayes classifier in Pharo that can be used for simple spam detection and sentiment analysis.
-+ [PharoAI / NgramModel](https://github.com/PharoAI/NgramModel) - N-gram language model that can be trained to estimate the probability of a next word based on N-1 previous words.
-+ [PharoAI / TF-IDF](https://github.com/PharoAI/TF-IDF) - Term Frequency - Inverse Document Frequency (TF-IDF), a statistical metric that reflects the importance of a word in a document. Can be used for finding keywords, ranking words by importance, or as a simple way of finding semantic similarity between documents.
++ [pharo-ai / APriori](https://github.com/pharo-ai/APriori) - Fast algorithm for mining frequent sets of items and finding association rules between items in a database of transactions.
++ [pharo-ai / KMeans](https://github.com/pharo-ai/KMeans) - K-means clustering.
++ [pharo-ai / NaiveBayesClassifier](https://github.com/pharo-ai/NaiveBayesClassifier) - Implementation of a multinomial Naive Bayes classifier in Pharo that can be used for simple spam detection and sentiment analysis.
++ [pharo-ai / NgramModel](https://github.com/pharo-ai/NgramModel) - N-gram language model that can be trained to estimate the probability of a next word based on N-1 previous words.
++ [pharo-ai / TF-IDF](https://github.com/pharo-ai/TF-IDF) - Term Frequency - Inverse Document Frequency (TF-IDF), a statistical metric that reflects the importance of a word in a document. Can be used for finding keywords, ranking words by importance, or as a simple way of finding semantic similarity between documents.
 + [TensorFlow Bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings) - Allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo.
 
 ## Books
@@ -126,9 +126,9 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Voyage](https://github.com/pharo-nosql/voyage) - An object persistence abstraction layer for Pharo.
 
 ## Datasets
-+ [Datasets](https://github.com/PharoAI/Datasets) - A collection of small toy datasets used for demonstration and experiments with AI and machine learning. Includes many famous datasets such as Iris, Boston Housing, Wine, Diabetes, MNIST, etc.
++ [Datasets](https://github.com/pharo-ai/Datasets) - A collection of small toy datasets used for demonstration and experiments with AI and machine learning. Includes many famous datasets such as Iris, Boston Housing, Wine, Diabetes, MNIST, etc.
 + [Les Miserables](https://github.com/bergel/LesMiserables) - Coappearance characters of Les Miserables.
-+ [RandomPartitioner](https://github.com/PharoAI/RandomPartitioner) - A tool for partitioning a dataset. Given a set of proportions (e.g. 50%, 30%, and 20%), it shuffles the collection and divides it into non-empty subsets in such a way that every element is included in exactly one subset. Can be used in machine learning and statistical analysis for splitting datasets into training, validation, and test sets.
++ [RandomPartitioner](https://github.com/pharo-ai/RandomPartitioner) - A tool for partitioning a dataset. Given a set of proportions (e.g. 50%, 30%, and 20%), it shuffles the collection and divides it into non-empty subsets in such a way that every element is included in exactly one subset. Can be used in machine learning and statistical analysis for splitting datasets into training, validation, and test sets.
 
 ## Documents Generation
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
