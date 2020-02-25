@@ -78,6 +78,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [pi](https://github.com/hernanmd/pi) - CLI tool to install Pharo Smalltalk packages.
 
 ## Data interexchange format
++ [Arff](https://github.com/juliendelplanque/Arff) - An Arff generator written in Pharo, Arff is the dataformat used by weka.
 + [CSV](https://github.com/svenvc/NeoCSV) - NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.
 + [Fuel](https://github.com/theseion/Fuel) - A general-purpose object serialization framework for Squeak and Pharo, developed in Pharo.
 + [msgpack-smalltalk](https://github.com/msgpack/msgpack-smalltalk) - MessagePack serialization library.
