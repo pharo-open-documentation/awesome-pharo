@@ -262,6 +262,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
 
 ## Videos
++ [How to setup a Pharo project](https://www.youtube.com/watch?v=Wnt3OBhR18I) - Video showing how to setup a Pharo project (continuous-integration setup included).
 + [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) to infect a Morph, making it change the color of other Morphs it touches.
 + [Pharo Tech Talk Feb 2017 : Reflectivity](https://www.youtube.com/watch?v=H52MAu_ISgU) - Reflectivity in Pharo6.
 + [Pharo Techtalk: Consortium/Association 2017](https://www.youtube.com/watch?v=jYtNinyj69I) - Live stream for the pharo tech talk March 2018.
