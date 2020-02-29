@@ -151,6 +151,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 ## IDE
 + [Calypso](https://github.com/pharo-ide/Calypso) - Pharo system browser.
 + [CollectionExtensions](https://github.com/pharo-contributions/CollectionExtensions) - Extensions for Pharo collections API.
++ [Dawn theme](https://github.com/sebastianconcept/PharoDawnTheme) - A warm dark theme for Pharo.
 + [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) - Moldable IDE for Pharo.
 + [Mirage](https://github.com/juliendelplanque/Mirage) - A windows switcher with a previewer for Pharo.
 + [Native-Browser](https://github.com/jecisc/Native-Browser) - A small project to add the possibility to open native browser via a FileReference.
