@@ -157,6 +157,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Native-Browser](https://github.com/jecisc/Native-Browser) - A small project to add the possibility to open native browser via a FileReference.
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
++ [TilingWindowManager](https://github.com/Pharophile/TilingWindowManager) - Tiling Window Manager for Pharo.
 
 ## Interaction
 + [TUIO](https://github.com/Ducasse/TUIO) - A driver for TUIO.
