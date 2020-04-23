@@ -168,8 +168,8 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on Pharo.
 
 ## Language extensions
-+ [Talents](https://github.com/tesonep/pharo-talents) - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances.
 + [I18N](https://github.com/astares/Pharo-I18N) - Internationalization support for applications.
++ [Talents](https://github.com/tesonep/pharo-talents) - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances.
 
 ## LaTeX
 + [Citezen](https://github.com/Ducasse/Citezen) - A bibtext parser and tool suite.
