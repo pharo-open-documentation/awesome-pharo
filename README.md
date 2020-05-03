@@ -184,6 +184,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 
 ## Miscellaneous
 + [Aconcagua](https://github.com/ba-st/aconcagua) - This model represents measures as first class objects, that is, an object that encapsulates a number with its unit.
++ [BugReport](https://github.com/jecisc/BugReport) - A small project to ease the bug reporting in Pharo application by dumping clear and detailed stacks. 
 + [DMirror](https://github.com/ObjectProfile/DMirror) - Tool to spawn new job on forked Pharo images.
 + [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
 + [Fog](https://github.com/smartanvil/Fog) - Pharo Ethereum Driver.
