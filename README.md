@@ -210,6 +210,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 ## Projects management
 + [Chrysal](https://github.com/Ducasse/Chrysal) - How to manage application configuration. 
 + [Cruiser](https://github.com/VincentBlondeau/Cruiser) - Application packager for Pharo.
++ [DeploymentUtility](https://github.com/jecisc/DeploymentUtility) - A project providing a facade to help to deploy pharo projects. 
 + [Filetree](https://github.com/dalehenrich/filetree) - A file-per-method export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
 + [Metacello](https://github.com/Metacello/metacello) - A package management system for Pharo.
 + [pharo-server-tools](https://github.com/svenvc/pharo-server-tools) - Tools to deploy and manage headless Pharo servers from the command line.
