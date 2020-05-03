@@ -69,6 +69,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) - Block-based API for XML generation for Pharo.
 
 ## Code quality
++ [Chanel](https://github.com/jecisc/Chanel) - A cleaner for Pharo Smalltalk code.
 + [QualityAssistant](https://github.com/Uko/QualityAssistant) - A live feedback code quality tool for Pharo.
 + [Rules](https://github.com/jecisc/Rules) - Rules is a small model of rules that a model should not violate. It is able to compute the technical debt for a set of violations.
 
