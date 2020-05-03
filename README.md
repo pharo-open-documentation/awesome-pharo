@@ -242,6 +242,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [PharoSound](https://github.com/psvensson/PharoSound) - Sound facilities for Pharo.
 
 ## System interaction
++ [KerasBridge](https://github.com/ObjectProfile/KerasBridge) - Bridge between the Keras library for neural network and Pharo
 + [LibUSB](https://github.com/tamerescrl/libusb-pharo) - A FFI binding to libusb C library.
 + [OSSubprocess](https://github.com/pharo-contributions/OSSubprocess) - Allows one to spawn Operating System processes from within Pharo language.
 + [Pharo-OS-Linux-Ubuntu](https://github.com/astares/Pharo-OS-Linux-Ubuntu) - Support for Ubuntu operating system for Pharo.
@@ -251,7 +252,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Pharo-OS-Windows](https://github.com/astares/Pharo-OS-Windows) - Support for Windows operating system for Pharo.
 + [ProcessWrapper](https://github.com/hernanmd/ProcessWrapper) - Plugin + Wrapper code for Windows process execution.
 + [PythonBridge](https://github.com/ObjectProfile/PythonBridge) - A bridge between Python and Pharo. This bridge allows to seamlessly use Python libraries in Pharo
-+ [KerasBridge](https://github.com/ObjectProfile/KerasBridge) - Bridge between the Keras library for neural network and Pharo
++ [SystemInteraction](https://github.com/jecisc/SystemInteraction) - A project to simplify system interactions in Pharo providing a facade to OSSubProcess and OSWindSubProcess and some pre-made commands.
 
 ## Testing
 + [Babymock](https://github.com/zeroflag/BabyMock) - A visual mock object library.
