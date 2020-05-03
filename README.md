@@ -161,8 +161,9 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [TilingWindowManager](https://github.com/Pharophile/TilingWindowManager) - Tiling Window Manager for Pharo.
 
 ## Interaction
-+ [TUIO](https://github.com/Ducasse/TUIO) - A driver for TUIO.
++ [GitBridge](https://github.com/jecisc/GitBridge) - Access resources and information from the git repository containing your project.
 + [OSC](https://github.com/Ducasse/OSC) - An open sound control library.
++ [TUIO](https://github.com/Ducasse/TUIO) - A driver for TUIO.
 
 ## IOT
 + [HID](https://github.com/tamerescrl/libusb-pharo#hid-layer) - An implementation of the Human Interface Device protocol with a driver to be used with libusb.
