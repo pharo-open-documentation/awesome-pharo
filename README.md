@@ -159,6 +159,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
 + [TilingWindowManager](https://github.com/Pharophile/TilingWindowManager) - Tiling Window Manager for Pharo.
++ [Uncommon-Themes](https://github.com/David5i6/Uncommon-Themes) - A collection of themes for Pharo.
 
 ## Interaction
 + [GitBridge](https://github.com/jecisc/GitBridge) - Access resources and information from the git repository containing your project.
