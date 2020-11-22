@@ -293,7 +293,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Seaside](https://github.com/SeasideSt/Seaside) - Framework to develop sophisticate web applications in Smalltalk.
 + [SeasideBootstrap](https://github.com/astares/Seaside-Bootstrap) - Binding to Twitter's Bootstrap project for Seaside.
 + [Teapot](https://github.com/zeroflag/Teapot) - Micro web framework for Pharo Smalltalk.
-+ [Teapot-ACL](https://github.com/radekbusa/Teapot-ACL) - A minimalistic role-based ACL for Teapot.
++ [Teapot-ACL](https://github.com/radekbusa/Teapot-ACL) - A minimalistic role-based access control list for Teapot authorization.
 + [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on Cytoscape.js.
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 + [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.
