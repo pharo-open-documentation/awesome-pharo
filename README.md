@@ -288,6 +288,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [OpenAPI](https://github.com/zweidenker/OpenAPI) - A pharo implementation of [OpenAPI](https://www.openapis.org) 3.0.1, a machine-readable interface files specification for describing, producing, consuming, and visualizing RESTful web services.
 + [Parasol](https://github.com/SeasideSt/Parasol) - Testing web apps in Smalltalk using Selenium WebDriver.
 + [PharoJS](https://github.com/bouraqadi/PharoJS) - Develop in Pharo, Run on Javascript.
++ [Pragma-Validators](https://github.com/radekbusa/Pragma-Validators) - Pragma validators for Pharo accessors, inspired by Java Bean Validation annotations.
 + [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) - Code displayer for Seaside base on Prism.js project.
 + [RenoirSt](https://github.com/ba-st/RenoirSt) - A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk.
 + [Seaside](https://github.com/SeasideSt/Seaside) - Framework to develop sophisticate web applications in Smalltalk.
