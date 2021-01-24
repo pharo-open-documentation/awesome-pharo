@@ -227,7 +227,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [HoneyGinger](https://github.com/tomooda/HoneyGinger) - a fluid dynamics simulation engine focused on interactivity and visualization
 + [Kendrick](https://github.com/UMMISCO/kendrick) - Domain-Specific Modeling for Epidemiology.
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
-+ [Mathemagics](https://github.com/grpistoia/Mathemagics) - Symbolic algebra package: Handles Mathematical expressions using simplification, derivatives, functions, variables, etc. Calculator included. Parser supports infix notation.
++ [Mathemagics](https://github.com/grpistoia/Mathemagics) - Symbolic algebra package that handles mathematical expressions using simplification, derivatives, functions, variables, etc. Calculator included. Parser supports infix notation.
 + [Polymath](https://github.com/PolyMathOrg/PolyMath) - Set of mathematical tools for Pharo. Similar to numpy in Python.
 + [RMapViewer](https://github.com/ReactionMap/RMapViewer) - A Viewer for chemical reaction maps.
 + [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.
