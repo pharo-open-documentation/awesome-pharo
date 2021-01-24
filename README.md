@@ -221,12 +221,13 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 
 ## Scientific libraries
 + [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) - Bioinformatics Library for Pharo Smalltalk.
-+ [CORMAS](https://github.com/cormas/cormas) - CORMAS (Common-pool Resource and Mutli-Agent Simulation) is a agent based model library in Smalltalk.
++ [CORMAS](https://github.com/cormas/cormas) - CORMAS (Common-pool Resource and Multi-Agent Simulation) is a agent based model library in Smalltalk.
 + [GADM](https://github.com/hernanmd/GADM) - A browseable GADM world tree for Pharo Smalltalk.
 + [Geometry](https://github.com/TelescopeSt/Geometry) - A library for representing basic geometry elements and doing computations with them.
 + [HoneyGinger](https://github.com/tomooda/HoneyGinger) - a fluid dynamics simulation engine focused on interactivity and visualization
 + [Kendrick](https://github.com/UMMISCO/kendrick) - Domain-Specific Modeling for Epidemiology.
 + [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) - A bridge to Python's Matplotlib.
++ [Mathemagics](https://github.com/grpistoia/Mathemagics) - Symbolic algebra package: Handles Mathematical expressions using simplification, derivatives, functions, variables, etc. Calculator included. Parser supports infix notation.
 + [Polymath](https://github.com/PolyMathOrg/PolyMath) - Set of mathematical tools for Pharo. Similar to numpy in Python.
 + [RMapViewer](https://github.com/ReactionMap/RMapViewer) - A Viewer for chemical reaction maps.
 + [StNER](https://github.com/hernanmd/StNER) - Interface to the Stanford Named Entity Recognizer.
