@@ -124,6 +124,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
 + [Tarantalk](https://github.com/mumez/Tarantalk) - Tarantool client for Pharo.
 + [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
++ [Simple-Persistence](https://github.com/seandenigris/Simple-Persistence) - Simple file base persistence for when you don't quite need a database.
 + [SQLite3](https://github.com/juliendelplanque/SQLite3) - A clean SQLite FFI binding for Pharo for those who only want to use SQLite easily.
 + [Voyage](https://github.com/pharo-nosql/voyage) - An object persistence abstraction layer for Pharo.
 
