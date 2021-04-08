@@ -284,6 +284,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 ## Web
 + [Amber](https://amber-lang.net) - Amber is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. It uses Pharo as reference implementation.
 + [ChartJs](https://github.com/DuneSt/ChartJs) - Seaside binding of ChartJs to display and interact with charts.
++ [CodeParadise](https://github.com/ErikOnBike/CodeParadise) - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
 + [Ethel](https://github.com/grype/Ethel) - Lightweight framework for composing web service clients.
 + [HighchartsSt](https://github.com/ba-st/HighchartsSt) - A Highcharts Js API wrapper for Pharo Smalltalk.
 + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
