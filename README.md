@@ -10,6 +10,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Code generation](#code-generation)
 - [Code quality](#code-quality)
 - [Command line](#command-line)
+- [Component-Based Architectures](#component-based-architectures)
 - [Data interexchange format](#data-interexchange-format)
 - [Data structures](#data-structures)
 - [Databases](#databases)
@@ -77,6 +78,9 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
 + [Pharo server tools](https://github.com/svenvc/pharo-server-tools) - Tools to deploy and manage headless Pharo servers from the command line.
 + [pi](https://github.com/hernanmd/pi) - CLI tool to install Pharo Smalltalk packages.
+
+## Component-Based Architectures
++ [Molecule](https://github.com/OpenSmock/Molecule) - A component oriented framework for Pharo.
 
 ## Data interexchange format
 + [Arff](https://github.com/juliendelplanque/Arff) - An Arff generator written in Pharo, Arff is the dataformat used by weka.
