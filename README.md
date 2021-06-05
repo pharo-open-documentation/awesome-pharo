@@ -10,7 +10,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Code generation](#code-generation)
 - [Code quality](#code-quality)
 - [Command line](#command-line)
-- [Component-Based Architectures] (#component-based-architectures)
+- [Component-Based Architectures](#component-based-architectures)
 - [Data interexchange format](#data-interexchange-format)
 - [Data structures](#data-structures)
 - [Databases](#databases)
