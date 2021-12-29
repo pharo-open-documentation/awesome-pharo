@@ -65,7 +65,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [SquareBracketAssociates](https://github.com/SquareBracketAssociates) - Organisation grouping repositories for various books around Pharo.
 
 ## Code generation
-+ [PharoJS](https://github.com/bouraqadi/PharoJS) - Converts Pharo code to Javascript.
++ [PharoJS](https://github.com/PharoJS/PharoJS) - Converts Pharo code to Javascript.
 + [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
 + [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) - Block-based API for XML generation for Pharo.
 
