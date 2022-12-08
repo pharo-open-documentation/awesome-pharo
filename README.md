@@ -149,7 +149,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Jun](https://github.com/tomooda/Jun) - A 3D graphics library with chemoinformatics extensions.
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) - Pharo support for PlantUML.
-+ [Roassal](https://github.com/ObjectProfile/Roassal2) - The agile 2D visualization engine for Pharo.
++ [Roassal3](https://github.com/ObjectProfile/Roassal3) - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal3)) 
 + [Sparta](https://github.com/syrel/Sparta) - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend. 
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
