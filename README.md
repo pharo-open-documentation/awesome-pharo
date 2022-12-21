@@ -105,16 +105,28 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
 ## Data Structures
+The project http://github.com/Pharo-containers is containing several data structures. Some more are in nursery in https://github.com/Ducasse/.
+The general idea is to have a place to be able to find datastructures.
 + [DataFrame](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
-+ [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
-+ [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
 + [Iterators](https://github.com/juliendelplanque/Iterators) - Implementation of the iterator design pattern.
+ 
++ [Array2D](https://github.com/Ducasse/Containers-Arrays2D) - A grid like structure. 
++ [AVL Tree ](https://github.com/pharo-containers/AVL)
++ [BTree](https://github.com/pharo-containers/BTree) - Not a binary tree but a BTree implementation.
++ [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
++ [Hastable](https://github.com/pharo-containers/Containers-HashTable).
++ [KeyedTree](https://github.com/pharo-containers/Containers-KeyedTree).
++ [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
 + [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
++ [OrderedSet](https://github.com/olekscode/Containers-OrderedSet) - A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection. Another version or the same is available at https://github.com/pharo-containers/Containers-OrderedSet
 + [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order preserving dictionary.
-+ [OrderedSet](https://github.com/olekscode/Containers-OrderedSet) - A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection.
 + [PropertyEnvironment](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary of properties with a lookup in ancestors (also called environment in other languages).
-+ [Stack implementation](https://github.com/Ducasse/Containers-Stack) - A stack implementation.
-+ [UniqueOrdered collection](https://github.com/Ducasse/Containers-UniqueOrdered) - Some collection to have unique ordered elements. 
++ [QuadTrees](https://github.com/Ducasse/QuadTree/).
++ [RunArray](https://github.com/pharo-containers/Containers-RunArray).
++ [SkipList](https://github.com/Ducasse/Containers-SkipList).
++ [Stack](https://github.com/pharo-containers/Containers-Stack) - A stack implementation.
++ [Trie](https://github.com/pharo-containers/Containers-Trie) - a structure for retrieval information.
++ [UniqueOrdered ](https://github.com//pharo-containers/Containers-UniqueOrdered) - Some collections to have unique ordered elements.
 
 ## Databases
 + [CDB](https://github.com/Ducasse/CDB) - a CDB implementation in Pharo. 
