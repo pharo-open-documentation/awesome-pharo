@@ -106,17 +106,16 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 
 ## Data Structures
 The project http://github.com/Pharo-containers is containing several data structures. Some more are in nursery in https://github.com/Ducasse/.
-The general idea is to have a place to be able to find datastructures.
-+ [DataFrame](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
-+ [Iterators](https://github.com/juliendelplanque/Iterators) - Implementation of the iterator design pattern.
- 
+The general idea is to have a place to be able to find datastructures. 
 + [Array2D](https://github.com/Ducasse/Containers-Arrays2D) - A grid like structure. 
 + [AVL Tree ](https://github.com/pharo-containers/AVL)
 + [BTree](https://github.com/pharo-containers/BTree) - Not a binary tree but a BTree implementation.
++ [DataFrame](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
 + [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) - A dictionary with lookup.
-+ [Hastable](https://github.com/pharo-containers/Containers-HashTable).
-+ [KeyedTree](https://github.com/pharo-containers/Containers-KeyedTree).
 + [Grid](https://github.com/Ducasse/Containers-Grid) - A grid implementation.
++ [Hastable](https://github.com/pharo-containers/Containers-HashTable).
++ [Iterators](https://github.com/juliendelplanque/Iterators) - Implementation of the iterator design pattern.
++ [KeyedTree](https://github.com/pharo-containers/Containers-KeyedTree).
 + [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) - A multi map implementation.
 + [OrderedSet](https://github.com/olekscode/Containers-OrderedSet) - A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection. Another version or the same is available at https://github.com/pharo-containers/Containers-OrderedSet
 + [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) - Order preserving dictionary.
