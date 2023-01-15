@@ -36,6 +36,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Tutorials](#tutorials)
 - [VCS](#vcs)
 - [Videos](#videos)
+- [Virtual machine](#virtual-machine)
 - [Web](#web)
 - [Web API clients](#web-api-clients)
 
@@ -295,6 +296,9 @@ The general idea is to have a place to be able to find datastructures.
 
 ## VCS
 + [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
+
+## Virtual Machine
++ [Polyphemus](https://github.com/pharo-vcs/iceberg) - Framework allowing to analyse/query/modify Pharo images without executing them.
 
 ## Web
 + [Amber](https://amber-lang.net) - Amber is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. It uses Pharo as reference implementation.
