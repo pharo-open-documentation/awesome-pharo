@@ -67,6 +67,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 ## Code generation
 + [PharoJS](https://github.com/PharoJS/PharoJS) - Converts Pharo code to Javascript.
 + [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
++ [VisitorGenerator](https://github.com/hogoww/visitorGenerator) - Generates basic visitor & visit methods for any Pharo classes hierarchy.
 + [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) - Block-based API for XML generation for Pharo.
 
 ## Code quality
