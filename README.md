@@ -158,6 +158,7 @@ The general idea is to have a place to be able to find datastructures.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
++ [GEXF](https://github.com/badetitou/PharoGEXF) - Pharo [GEXF file](https://gexf.net/) model and exporter.
 + [Jun](https://github.com/tomooda/Jun) - A 3D graphics library with chemoinformatics extensions.
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) - Pharo support for PlantUML.
