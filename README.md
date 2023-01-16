@@ -36,6 +36,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Tutorials](#tutorials)
 - [VCS](#vcs)
 - [Videos](#videos)
+- [Virtual machine](#virtual-machine)
 - [Web](#web)
 - [Web API clients](#web-api-clients)
 
@@ -299,6 +300,9 @@ The general idea is to have a place to be able to find datastructures.
 + [Pharo Tech Talk Feb 2017 : Reflectivity](https://www.youtube.com/watch?v=H52MAu_ISgU) - Reflectivity in Pharo6.
 + [Pharo Techtalk: Consortium/Association 2017](https://www.youtube.com/watch?v=jYtNinyj69I) - Live stream for the pharo tech talk March 2018.
 + [Pharo TechTalk July 2019: Contribute to Pharo](https://www.youtube.com/watch?v=90T0OSb_Fuo) - TechTalk showing how to contribute to Pharo.
+
+## Virtual Machine
++ [Polyphemus](https://github.com/pharo-vcs/iceberg) - Framework allowing to analyse/query/modify Pharo images without executing them.
 
 ## Web
 + [Amber](https://amber-lang.net) - Amber is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. It uses Pharo as reference implementation.
