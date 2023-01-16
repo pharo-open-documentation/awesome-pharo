@@ -107,7 +107,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
 ## Data Structures
-The project http://github.com/Pharo-containers is containing several data structures. Some more are in nursery in https://github.com/Ducasse/.
+The project http://github.com/Pharo-containers contains several data structures. Some more are in nursery in https://github.com/Ducasse/.
 The general idea is to have a place to be able to find datastructures. 
 + [Array2D](https://github.com/Ducasse/Containers-Arrays2D) - A grid like structure. 
 + [AVL Tree ](https://github.com/pharo-containers/AVL)
