@@ -67,7 +67,9 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 
 ## Code generation
 + [PharoJS](https://github.com/PharoJS/PharoJS) - Converts Pharo code to Javascript.
++ [PlainPharoCode](https://github.com/hogoww/PlainPharoCode) - Instead of using String, use Pharo code to define code to generate.
 + [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
++ [VisitorGenerator](https://github.com/hogoww/visitorGenerator) - Generates basic visitor & visit methods for any Pharo classes hierarchy.
 + [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) - Block-based API for XML generation for Pharo.
 
 ## Code quality
@@ -106,7 +108,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
 ## Data Structures
-The project http://github.com/Pharo-containers is containing several data structures. Some more are in nursery in https://github.com/Ducasse/.
+The project http://github.com/Pharo-containers contains several data structures. Some more are in nursery in https://github.com/Ducasse/.
 The general idea is to have a place to be able to find datastructures. 
 + [Array2D](https://github.com/Ducasse/Containers-Arrays2D) - A grid like structure. 
 + [AVL Tree ](https://github.com/pharo-containers/AVL)
@@ -158,8 +160,10 @@ The general idea is to have a place to be able to find datastructures.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
++ [GEXF](https://github.com/badetitou/PharoGEXF) - Pharo [GEXF file](https://gexf.net/) model and exporter.
 + [Jun](https://github.com/tomooda/Jun) - A 3D graphics library with chemoinformatics extensions.
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
++ [MermaidPharo](https://github.com/badetitou/MermaidPharo) - Pharo support for [MermaidJS](https://mermaid.js.org/#/).
 + [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) - Pharo support for PlantUML.
 + [Roassal3](https://github.com/ObjectProfile/Roassal3) - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal3)) 
 + [Sparta](https://github.com/syrel/Sparta) - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend. 
@@ -287,15 +291,15 @@ The general idea is to have a place to be able to find datastructures.
 ## Tutorials
 + [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
 
+## VCS
++ [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
+
 ## Videos
 + [How to setup a Pharo project](https://www.youtube.com/watch?v=Wnt3OBhR18I) - Video showing how to setup a Pharo project (continuous-integration setup included).
 + [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) to infect a Morph, making it change the color of other Morphs it touches.
 + [Pharo Tech Talk Feb 2017 : Reflectivity](https://www.youtube.com/watch?v=H52MAu_ISgU) - Reflectivity in Pharo6.
 + [Pharo Techtalk: Consortium/Association 2017](https://www.youtube.com/watch?v=jYtNinyj69I) - Live stream for the pharo tech talk March 2018.
 + [Pharo TechTalk July 2019: Contribute to Pharo](https://www.youtube.com/watch?v=90T0OSb_Fuo) - TechTalk showing how to contribute to Pharo.
-
-## VCS
-+ [Iceberg](https://github.com/pharo-vcs/iceberg) - Set of tools to handle git repositories from a Pharo image.
 
 ## Virtual Machine
 + [Polyphemus](https://github.com/pharo-vcs/iceberg) - Framework allowing to analyse/query/modify Pharo images without executing them.
