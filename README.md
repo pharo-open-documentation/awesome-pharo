@@ -161,6 +161,7 @@ The general idea is to have a place to be able to find datastructures.
 + [GEXF](https://github.com/badetitou/PharoGEXF) - Pharo [GEXF file](https://gexf.net/) model and exporter.
 + [Jun](https://github.com/tomooda/Jun) - A 3D graphics library with chemoinformatics extensions.
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
++ [MermaidPharo](https://github.com/badetitou/MermaidPharo) - Pharo support for [MermaidJS](https://mermaid.js.org/#/).
 + [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) - Pharo support for PlantUML.
 + [Roassal3](https://github.com/ObjectProfile/Roassal3) - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal3)) 
 + [Sparta](https://github.com/syrel/Sparta) - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend. 
