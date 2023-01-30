@@ -190,6 +190,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IOT
 + [HID](https://github.com/tamerescrl/libusb-pharo#hid-layer) - An implementation of the Human Interface Device protocol with a driver to be used with libusb.
++ [Netatmo API](https://github.com/labordep/PharoNetatmoAPI) - Netatmo API implementation for Legrand Netatmo products (Weather Station and Healthy HomeCoach / Aircare product).
 + [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on Pharo.
 
 ## Language extensions
