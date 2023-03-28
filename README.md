@@ -80,6 +80,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 
 ## Command line
 + [clap-st](https://github.com/cdlm/clap-st) - Command-line argument parsing for Pharo.
++ [Launchpad](https://github.com/ba-st/Launchpad) - A command-line interface to start, list, and explain the applications available within the image
 + [Pharo server tools](https://github.com/svenvc/pharo-server-tools) - Tools to deploy and manage headless Pharo servers from the command line.
 + [pi](https://github.com/hernanmd/pi) - CLI tool to install Pharo Smalltalk packages.
 
@@ -152,6 +153,10 @@ The general idea is to have a place to be able to find datastructures.
 + [Les Miserables](https://github.com/bergel/LesMiserables) - Coappearance characters of Les Miserables.
 + [RandomPartitioner](https://github.com/pharo-ai/RandomPartitioner) - A tool for partitioning a dataset. Given a set of proportions (e.g. 50%, 30%, and 20%), it shuffles the collection and divides it into non-empty subsets in such a way that every element is included in exactly one subset. Can be used in machine learning and statistical analysis for splitting datasets into training, validation, and test sets.
 
+## Deployment
+- [Docker Pharo Runtime](https://github.com/ba-st/docker-pharo-runtime) - Docker image for Pharo 
+- [Docker Pharo VM](https://github.com/ba-st/docker-pharo-vm) - Docker image for Pharo VM
+
 ## Documents Generation
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
 
@@ -194,6 +199,7 @@ The general idea is to have a place to be able to find datastructures.
 + [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on Pharo.
 
 ## Language extensions
++ [Buoy](https://github.com/ba-st/Buoy) - A complement to Pharo
 + [I18N](https://github.com/astares/Pharo-I18N) - Internationalization support for applications.
 + [Talents](https://github.com/tesonep/pharo-talents) - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances.
 
@@ -204,6 +210,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Loggers
 + [Beacon](https://github.com/noha/pharo-beacon) - A logger using beacon.
 + [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
++ [Bell](https://github.com/ba-st/Bell) - An observability library written in Smalltalk  
 
 ## Meta-modelling
 + [Magritte](https://github.com/magritte-metamodel/magritte) - A fully dynamic meta-description framework.
@@ -211,6 +218,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Miscellaneous
 + [Aconcagua](https://github.com/ba-st/aconcagua) - This model represents measures as first class objects, that is, an object that encapsulates a number with its unit.
 + [BugReport](https://github.com/jecisc/BugReport) - A small project to ease the bug reporting in Pharo application by dumping clear and detailed stacks. 
++ [Chalten](https://github.com/ba-st/Chalten) - This is a time model that allows to use dates, months, years, etc. in an easy way.
 + [DMirror](https://github.com/ObjectProfile/DMirror) - Tool to spawn new job on forked Pharo images.
 + [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
 + [Fog](https://github.com/smartanvil/Fog) - Pharo Ethereum Driver.
@@ -223,8 +231,11 @@ The general idea is to have a place to be able to find datastructures.
 + [Territorial](https://github.com/hernanmd/Territorial) - Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.
 
 ## Network protocols
++ [Ansible](https://github.com/ba-st/Ansible) - An AMQP client for Pharo
 + [FileSystemNetwork](http://smalltalkhub.com/#!/~UdoSchneider/FileSystemNetwork) - Adds WebDAV and FTP support to Pharo's FileSystem framework. This allows you to use remote WebDAV and FTP locations with the same (FileSystem) API that's used for disk access.
 + [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
++ [Stargate](https://github.com/ba-st/Stargate) - A library supporting the creation of HTTP based RESTful APIs.
++ [Superluminal](https://github.com/ba-st/Superluminal) - Building blocks for creating HTTP requests and API clients
 + [Zodiac](https://github.com/svenvc/zodiac) (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
 
 ## Pharo images management
