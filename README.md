@@ -187,6 +187,7 @@ The general idea is to have a place to be able to find datastructures.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
 + [TilingWindowManager](https://github.com/Pharophile/TilingWindowManager) - Tiling Window Manager for Pharo.
 + [Uncommon-Themes](https://github.com/David5i6/Uncommon-Themes) - A collection of themes for Pharo.
++ [Webside](https://github.com/guillermoamaral/Webside) - Web based IDE for Pharo and other Smalltalk systems.
 
 ## Interaction
 + [GitBridge](https://github.com/jecisc/GitBridge) - Access resources and information from the git repository containing your project.
