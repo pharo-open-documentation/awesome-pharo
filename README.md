@@ -142,6 +142,7 @@ The general idea is to have a place to be able to find datastructures.
 + [pharo-ado](https://github.com/eftomi/pharo-ado) - Enable data persistence in Pharo by using ActiveX Data Objects (ADO) on Microsoft Windows and external DBMS.
 + [Pharo-UDBC](https://github.com/astares/Pharo-UDBC) - Pharo Universal Database Connectivity.
 + [PunQLite](https://github.com/mumez/PunQLite) - UnQLite binding for Pharo Smalltalk.
++ [ReStore](https://github.com/rko281/ReStoreForPharo) - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 + [Tarantalk](https://github.com/mumez/Tarantalk) - Tarantool client for Pharo.
 + [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
 + [Simple-Persistence](https://github.com/seandenigris/Simple-Persistence) - Simple file base persistence for when you don't quite need a database.
