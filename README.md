@@ -343,5 +343,5 @@ The general idea is to have a place to be able to find datastructures.
 ## Web API clients
 
 - [DiscordSt](https://github.com/JurajKubelka/DiscordSt) - DiscordSt is a client for Discord written in Pharo.
-- [Jira-Pharo-API](https://github.com/Evref-BL/Jira-Pharo-API) - Jira-Pharo-API is a client for [Jira](https://www.atlassian.com/software/jira) written in Pharo.
 - [Elasticsearch-Pharo-API](https://github.com/Evref-BL/Elasticsearch-Pharo-API) - Elasticsearch-Pharo-API is a client for [Elasticsearch](https://www.elastic.co/elasticsearch/) written in Pharo.
+- [Jira-Pharo-API](https://github.com/Evref-BL/Jira-Pharo-API) - Jira-Pharo-API is a client for [Jira](https://www.atlassian.com/software/jira) written in Pharo.
