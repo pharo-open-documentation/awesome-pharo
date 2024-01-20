@@ -238,8 +238,8 @@ The general idea is to have a place to be able to find datastructures.
 + [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 + [Stargate](https://github.com/ba-st/Stargate) - A library supporting the creation of HTTP based RESTful APIs.
 + [Superluminal](https://github.com/ba-st/Superluminal) - Building blocks for creating HTTP requests and API clients
-+ [Zodiac](https://github.com/svenvc/zodiac) (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
 + [WebSocket with Zinc](https://github.com/svenvc/zinc) - The WebSocket feature of the Zinc HTTP Components framework.
++ [Zodiac](https://github.com/svenvc/zodiac) (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
 
 ## Pharo images management
 + [fari.sh](https://github.com/cdlm/fari.sh) - Fresh, ready-to-hack Pharo images.
