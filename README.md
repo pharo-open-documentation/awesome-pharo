@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 + [Tarantalk](https://github.com/mumez/Tarantalk) - Tarantool client for Pharo.
 + [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
 + [Simple-Persistence](https://github.com/seandenigris/Simple-Persistence) - Simple file base persistence for when you don't quite need a database.
-+ [SQLite3](https://github.com/juliendelplanque/SQLite3) - A clean SQLite FFI binding for Pharo for those who only want to use SQLite easily.
++ [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) - Community-owned official SQLite3 binding for Pharo 
 + [Voyage](https://github.com/pharo-nosql/voyage) - An object persistence abstraction layer for Pharo.
 
 ## Datasets
