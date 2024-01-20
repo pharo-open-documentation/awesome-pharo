@@ -325,6 +325,7 @@ The general idea is to have a place to be able to find datastructures.
 + [CodeParadise](https://github.com/ErikOnBike/CodeParadise) - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
 + [Ethel](https://github.com/grype/Ethel) - Lightweight framework for composing web service clients.
 + [HighchartsSt](https://github.com/ba-st/HighchartsSt) - A Highcharts Js API wrapper for Pharo Smalltalk.
++ [MaterialComponentsWeb](https://github.com/yannij/MaterialComponentsWeb) - Project to use material-components-web in Seaside.
 + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
 + [OpenAPI](https://github.com/zweidenker/OpenAPI) - A pharo implementation of [OpenAPI](https://www.openapis.org) 3.0.1, a machine-readable interface files specification for describing, producing, consuming, and visualizing RESTful web services.
 + [Parasol](https://github.com/SeasideSt/Parasol) - Testing web apps in Smalltalk using Selenium WebDriver.
