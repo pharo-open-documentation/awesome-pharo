@@ -137,7 +137,6 @@ The general idea is to have a place to be able to find datastructures.
 + [CouchDB](https://github.com/eMaringolo/pharo-couchdb) - Pharo client for CouchDB NoSQL Document Database.
 + [Garage](https://github.com/pharo-rdbms/garage) - Database drivers for the Pharo language.
 + [Glorp](https://github.com/pharo-rdbms/glorp) - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
-+ [GlorpSQLite](https://github.com/PierceNg/glorp-sqlite3) - SQLite for Pharo, standalone and integrated with Glorp.
 + [P3](https://github.com/svenvc/P3) - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
 + [pharo-ado](https://github.com/eftomi/pharo-ado) - Enable data persistence in Pharo by using ActiveX Data Objects (ADO) on Microsoft Windows and external DBMS.
 + [Pharo-UDBC](https://github.com/astares/Pharo-UDBC) - Pharo Universal Database Connectivity.
@@ -146,7 +145,7 @@ The general idea is to have a place to be able to find datastructures.
 + [Tarantalk](https://github.com/mumez/Tarantalk) - Tarantool client for Pharo.
 + [SCouchDB](https://github.com/jmari/SCouchDB) - Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.
 + [Simple-Persistence](https://github.com/seandenigris/Simple-Persistence) - Simple file base persistence for when you don't quite need a database.
-+ [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) - Community-owned official SQLite3 binding for Pharo 
++ [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) - Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp. 
 + [Voyage](https://github.com/pharo-nosql/voyage) - An object persistence abstraction layer for Pharo.
 
 ## Datasets
