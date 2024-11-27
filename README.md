@@ -161,8 +161,8 @@ The general idea is to have a place to be able to find datastructures.
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
 
 ## Graphics
++ [Alexandrie](https://github.com/pharo-graphics/Alexandrie) - FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
-+ [Brick](https://github.com/pharo-graphics/Brick) - Next generation widget libraries for Pharo. Works on top of Bloc.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
@@ -171,9 +171,11 @@ The general idea is to have a place to be able to find datastructures.
 + [MaterialColors](https://github.com/DuneSt/MaterialColors) - Project implementing Material Design recommandations on colors.
 + [MermaidPharo](https://github.com/badetitou/MermaidPharo) - Pharo support for [MermaidJS](https://mermaid.js.org/#/).
 + [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) - Pharo support for PlantUML.
++ [Pyramid](https://github.com/OpenSmock/Pyramid) - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 + [Roassal3](https://github.com/ObjectProfile/Roassal3) - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal3)) 
 + [Sparta](https://github.com/syrel/Sparta) - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend. 
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
++ [Toplo](https://github.com/pharo-graphics/Toplo) - A widget framework on top of Bloc.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
 
 ## IDE
