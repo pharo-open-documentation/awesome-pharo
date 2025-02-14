@@ -211,9 +211,11 @@ The general idea is to have a place to be able to find datastructures.
 + [SmalltalkEnv](https://github.com/mattonem/SmalltalkEnv) - LaTeX environment for Smalltalk.
 
 ## Loggers
-+ [Beacon](https://github.com/noha/pharo-beacon) - A logger using beacon.
-+ [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small logger for Pharo applications.
-+ [Bell](https://github.com/ba-st/Bell) - An observability library written in Smalltalk  
++ [Beacon](https://pharo-project/pharo) - The default object logger of Pharo.
++ [SystemLogger](https://github.com/Ducasse/SystemLogger/) - An extensible object logger. 
++ [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small textual logger for Pharo applications.
++ [Bell](https://github.com/ba-st/Bell) - An observability library written in Smalltalk.
++ [Toothpick](https://github.com/pdebruic/Toothpick) - A textual logger for Pharo.
 
 ## Meta-modelling
 + [Magritte](https://github.com/magritte-metamodel/magritte) - A fully dynamic meta-description framework.
