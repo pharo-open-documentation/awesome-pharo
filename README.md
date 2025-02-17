@@ -212,9 +212,9 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Loggers
 + [Beacon](https://pharo-project/pharo) - The default object logger of Pharo.
-+ [SystemLogger](https://github.com/Ducasse/SystemLogger/) - An extensible object logger. 
-+ [TinyLogger](https://github.com/jecisc/TinyLogger) - A really small textual logger for Pharo applications.
 + [Bell](https://github.com/ba-st/Bell) - An observability library written in Smalltalk.
++ [SystemLogger](https://github.com/Ducasse/SystemLogger/) - An extensible object logger. 
++ [TinyLogger](https://github.com/jecisc/TinyLogger) - A small textual logger for Pharo applications.
 + [Toothpick](https://github.com/pdebruic/Toothpick) - A textual logger for Pharo.
 
 ## Meta-modelling
