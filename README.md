@@ -332,7 +332,7 @@ The general idea is to have a place to be able to find datastructures.
 + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) - Binding google's Material Design Lite project for Seaside.
 + [OpenAPI](https://github.com/zweidenker/OpenAPI) - A pharo implementation of [OpenAPI](https://www.openapis.org) 3.0.1, a machine-readable interface files specification for describing, producing, consuming, and visualizing RESTful web services.
 + [Parasol](https://github.com/SeasideSt/Parasol) - Testing web apps in Smalltalk using Selenium WebDriver.
-+ [PharoJS](https://github.com/bouraqadi/PharoJS) - Develop in Pharo, Run on Javascript.
++ [PharoJS](https://github.com/PharoJS/PharoJS) - Develop in Pharo, Run on Javascript.
 + [Pragma-Validators](https://github.com/radekbusa/Pragma-Validators) - Pragma validators for Pharo accessors, inspired by Java Bean Validation annotations.
 + [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) - Code displayer for Seaside base on Prism.js project.
 + [RenoirSt](https://github.com/ba-st/RenoirSt) - A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk.
@@ -341,6 +341,7 @@ The general idea is to have a place to be able to find datastructures.
 + [Teapot](https://github.com/zeroflag/Teapot) - Micro web framework for Pharo Smalltalk.
 + [Teapot-ACL](https://github.com/radekbusa/Teapot-ACL) - A minimalistic role-based access control list for Teapot authorization.
 + [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) - Interactive visualization project for Seaside based on Cytoscape.js.
++ [WebST](https://github.com/bouraqadi/WebST/) - A framework for building Web Components using PharoJS
 + [Willow](https://github.com/ba-st/Willow) - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 + [Zinc](https://github.com/svenvc/zinc) - HTTP components to deal with HTTP networking in Smalltalk.
 
