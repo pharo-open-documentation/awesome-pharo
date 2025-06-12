@@ -277,10 +277,10 @@ The general idea is to have a place to be able to find datastructures.
 ## Software / data analysis
 + [CCBC](https://github.com/hernanmd/ccbc) - Code Critics Bar Chart for Pharo Smalltalk.
 + [DesignInfo](https://github.com/hernanmd/DesignInfo) - Collects package metrics (SLOC).
++ [Gitminer](https://github.com/USIREVEAL/gitminer) - A tool to mine Git-based software repositories.
 + [Moose](https://github.com/moosetechnology/Moose) - Platform for software and data analysis.
 + [PetitParser](https://github.com/moosetechnology/PetitParser) - Petit Parser is a framework for building parsers using objects.
 + [PostgreSQLParser](https://github.com/juliendelplanque/PostgreSQLParser) - A parser for PostgreSQL queries and Plpg/SQL source code.
-+ [gitminer](https://github.com/USIREVEAL/gitminer) - A tool to mine Git-based software repositories.
 
 ## Sound
 + [Pharo-LibVLC](https://github.com/badetitou/Pharo-LibVLC) - FFI binding to [libVLC](https://www.videolan.org/developers/vlc/doc/doxygen/html/group__libvlc.html).
