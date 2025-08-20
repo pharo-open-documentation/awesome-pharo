@@ -173,7 +173,7 @@ The general idea is to have a place to be able to find datastructures.
 + [MermaidPharo](https://github.com/badetitou/MermaidPharo) - Pharo support for [MermaidJS](https://mermaid.js.org/#/).
 + [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) - Pharo support for PlantUML.
 + [Pyramid](https://github.com/OpenSmock/Pyramid) - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
-+ [Roassal3](https://github.com/ObjectProfile/Roassal3) - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal3)) 
++ [Roassal3](https://github.com/pharo-graphics/Roassal) - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2)) 
 + [Sparta](https://github.com/syrel/Sparta) - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend. 
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Toplo](https://github.com/pharo-graphics/Toplo) - A widget framework on top of Bloc.
