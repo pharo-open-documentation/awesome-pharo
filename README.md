@@ -106,14 +106,14 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [XML-Support](https://github.com/svenvc/XML-Support-Pharo) - XML Support for Pharo.
 + [XML-XMLParserStAX](https://github.com/pharo-contributions/XML-XMLParserStAX) - Official XML pull parser for XMLParser maintained by Pharo community.
 + [XML-XMLParserHTML](https://github.com/pharo-contributions/XML-XMLParserHTML) - Official parsers for HTML that convert possibly malformed HTML into well-formed XML maintained by Pharo community.
-+ [XML-XMLWriter](XML-XMLWriter) - Official XML generation framework maintained by Pharo community.
++ [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) - Official XML generation framework maintained by Pharo community.
 + [XML-XPath](https://github.com/pharo-contributions/XML-XPath) - Official XPath library for Pharo.
 + [Soup](https://github.com/Ducasse/Soup) - HTML Scraping library for Pharo.
 
 ## Data Structures
 The project http://github.com/Pharo-containers contains several data structures. Some more are in nursery in https://github.com/Ducasse/.
 The general idea is to have a place to be able to find datastructures. 
-+ [Array2D](https://github.com/Ducasse/Containers-Arrays2D) - A grid like structure. 
++ [Array2D](https://github.com/pharo-containers/Containers-Array2D) - A grid like structure. 
 + [AVL Tree ](https://github.com/pharo-containers/AVL)
 + [BTree](https://github.com/pharo-containers/BTree) - Not a binary tree but a BTree implementation.
 + [DataFrame](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis.
