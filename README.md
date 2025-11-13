@@ -16,6 +16,7 @@ A categorized community-driven collection of awesome Pharo libraries, tools, fra
 - [Databases](#databases)
 - [Datasets](#datasets)
 - [Documents generation](#documents-generation)
+- [Geography](#geography)
 - [Graphics](#graphics)
 - [IDE](#ide)
 - [Interaction](#interaction)
@@ -161,6 +162,11 @@ The general idea is to have a place to be able to find datastructures.
 ## Documents Generation
 + [Artefact](https://github.com/pharo-contributions/Artefact) - Artefact is a framework to generate PDF documents in Pharo.
 
+## Geography
++ [GeoTools](https://github.com/ThalesGroup/GeoTools) - Geographic Tools as Coordinates, Kinematics and Geodesic utilities for GIS.
++ [GeoView](https://github.com/ThalesGroup/GeoView) - Views to display and interact with geographical objects and cartographic layers for UI.
++ [PharoOWS](https://github.com/ThalesGroup/PharoOWS) - OGC Web Services (OWS) support for Pharo.
+
 ## Graphics
 + [Alexandrie](https://github.com/pharo-graphics/Alexandrie) - FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
@@ -186,6 +192,7 @@ The general idea is to have a place to be able to find datastructures.
 + [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) - Moldable IDE for Pharo.
 + [Mirage](https://github.com/juliendelplanque/Mirage) - A windows switcher with a previewer for Pharo.
 + [Native-Browser](https://github.com/jecisc/Native-Browser) - A small project to add the possibility to open native browser via a FileReference.
++ [OpenSmock](https://github.com/OpenSmock/OpenSmock) -A collection of tools and workshops designed to streamline the development of applications - especially user interfaces (UI).
 + [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) - Vim Mode for Playground, System Browser, Debugger in Pharo.
 + [TelePharo](https://github.com/pharo-ide/TelePharo) - Tools to manage and develop remote Pharo images.
 + [TilingWindowManager](https://github.com/Pharophile/TilingWindowManager) - Tiling Window Manager for Pharo.
@@ -195,6 +202,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Interaction
 + [GitBridge](https://github.com/jecisc/GitBridge) - Access resources and information from the git repository containing your project.
 + [OSC](https://github.com/Ducasse/OSC) - An open sound control library.
++ [PharoStreamDeck](https://github.com/OpenSmock/PharoStreamDeck) - Elgato Stream Deck utils for Pharo.
 + [TUIO](https://github.com/Ducasse/TUIO) - A driver for TUIO.
 
 ## IOT
@@ -240,6 +248,7 @@ The general idea is to have a place to be able to find datastructures.
 + [Ansible](https://github.com/ba-st/Ansible) - An AMQP client for Pharo
 + [FileSystemNetwork](http://smalltalkhub.com/#!/~UdoSchneider/FileSystemNetwork) - Adds WebDAV and FTP support to Pharo's FileSystem framework. This allows you to use remote WebDAV and FTP locations with the same (FileSystem) API that's used for disk access.
 + [JRPC](https://github.com/juliendelplanque/JRPC) - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
++ [PharoZeroMQ](https://github.com/OpenSmock/PharoZeroMQ) - ZeroMQ (ØMQ, 0MQ or ZMQ) library for Pharo.
 + [Stargate](https://github.com/ba-st/Stargate) - A library supporting the creation of HTTP based RESTful APIs.
 + [Superluminal](https://github.com/ba-st/Superluminal) - Building blocks for creating HTTP requests and API clients
 + [WebSocket with Zinc](https://github.com/svenvc/zinc) - The WebSocket feature of the Zinc HTTP Components framework.
