@@ -71,6 +71,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 + [PharoJS](https://github.com/PharoJS/PharoJS) - Converts Pharo code to Javascript.
 + [PlainPharoCode](https://github.com/hogoww/PlainPharoCode) - Instead of using String, use Pharo code to define code to generate.
 + [Python3Generator](https://github.com/juliendelplanque/Python3Generator) - A toolkit to generate Python 3 source code from Pharo.
++ [Stash](https://github.com/OpenSmock/Stash) - A source-code serializer for Pharo.
 + [VisitorGenerator](https://github.com/hogoww/visitorGenerator) - Generates basic visitor & visit methods for any Pharo classes hierarchy.
 + [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) - Block-based API for XML generation for Pharo.
 
@@ -170,6 +171,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Graphics
 + [Alexandrie](https://github.com/pharo-graphics/Alexandrie) - FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
++ [Bloc-Serialization](https://github.com/OpenSmock/Bloc-Serialization) - Bloc serialization features to store/unstore BlElements.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [CSSParser](https://github.com/pharo-contributions/CSSParser) - A library that provides an object model and tools to read, interpret, and manipulate CSS stylesheets (including .css files).
@@ -185,6 +187,7 @@ The general idea is to have a place to be able to find datastructures.
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
 + [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Toplo](https://github.com/pharo-graphics/Toplo) - A widget framework on top of Bloc.
++ [Toplo-Serialization](https://github.com/OpenSmock/Toplo-Serialization) - Toplo serialization features to store/unstore ToElements.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
 
 ## IDE
