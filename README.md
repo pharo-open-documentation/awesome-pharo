@@ -320,6 +320,7 @@ The general idea is to have a place to be able to find datastructures.
 + [Mocketry](https://github.com/dionisiydk/Mocketry) - Mock objects library with very fluent lightweight API.
 + [µ-talk](https://github.com/pavel-krivanek/mutalk) - Mutation Testing in Smalltalk.
 + [ParametrizedTests](https://github.com/tesonep/ParametrizedTests) - Extension to SUnit to implement parametrized tests in Pharo.
++ [ShellStone](https://github.com/tomas-stefano/shellstone) - RSpec-inspired BDD testing framework with matchers, hooks, and test doubles. Cross-platform (GNU Smalltalk & Pharo). **Experimental**.
 + [StateSpecs](https://github.com/dionisiydk/StateSpecs) - Assertions library based on should expressions.
 
 ## Tutorials
